@@ -1,4 +1,4 @@
- <h1 align="center">Documentação</h1>
+ <h1 align="center">Documentação Sprint 1</h1>
 <h1>1. Introdução </h1>
 
 
@@ -46,8 +46,6 @@ A primeira sprint foi feita considerando os requisitos, prazos e ordem de priori
 
 <h2>2.1.6	Arquitetura front-end</h2>
 
-
-<h2>2.1.7	Arquitetura front-end</h2>
 
 <h1>3. Conclusão </h1>
 <p>
