@@ -12,7 +12,7 @@
 <h1>2. Desenvolvimento </h1>
 <h2>2.1	Tecnologias utilizadas</h2>
 <h3>2.1.1	Tecnologias front-end</h3>
-<li>JavaScript, HTML, CSS e Figma. JavaScript, HTML, CSS e Figma.</li>
+<li>JavaScript, HTML, CSS e Figma.</li>
 <br>
 <h3>2.1.2	Tecnologias para versionamento e comunicação</h3>
 <li>Github e VS Code.</li>
