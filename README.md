@@ -21,14 +21,14 @@
 <li>Microsoft Teams, trello e grupo privado whats app.</li>
 <h2>2.1.4	Levantamento de requisitos</h2>
 
-<text-align="justify">Foram efetuados esboços simples desenhados a mão para se ter uma ideia inicial do que seria feito no desenvolvimento do site:</text-align>
+Foram efetuados esboços simples desenhados a mão para se ter uma ideia inicial do que seria feito no desenvolvimento do site:
 
 <img src="imagens/wireframe1.gif" width="580" height="340"/><figcaption>Esboço1</figcaption>
 
 <img src="imagens/wireframe2.gif" width="580" height="340"/><figcaption>Esboço2</figcaption>
 <br>
 
-<text-align="justify">Após, o Project Owner se reuniu com o cliente apresentando esses esboços e a partir daí pôde definir quais seriam os próximos passos para o planejamento das Sprints.</text-align>
+Após, o Project Owner se reuniu com o cliente apresentando esses esboços e a partir daí pôde definir quais seriam os próximos passos para o planejamento das Sprints.
 
 <h2>2.1.5	Planejamento das sprints</h2>
 
@@ -42,7 +42,7 @@ Após perceber a necessidade do cliente o Product Owner fez o Backlog do Produto
 
 <h3>2.1.5.2	Sprint 1</h3>
 
-<text-align="justify"> A partir da criação do Product Backlog foi possível desmembrar as funções, organizá-las em ordem de prioridade e efetuar a criação do Kanban no Trello, o qual, foram atribuídas cores a cada colaborador de forma a melhorar o controle das atividades e visualização das responsabilidades.</text-align>
+A partir da criação do Product Backlog foi possível desmembrar as funções, organizá-las em ordem de prioridade e efetuar a criação do Kanban no Trello, o qual, foram atribuídas cores a cada colaborador de forma a melhorar o controle das atividades e visualização das responsabilidades.
 <p>
     <img src="imagens/kanban.jpg" width="1000" height="650"/><figcaption>Kanban-Definição cores</figcaption>
 </p>
