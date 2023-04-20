@@ -1,4 +1,13 @@
 <h1 align="center">Documentação - Sprint1</h1>
+
+<p align="center">
+    <a href="#objetivos"><b>Objetivo</b></a> &nbsp |&nbsp &nbsp
+    <a href="#desenvolvimento"><b>Desenvolvimento</b></a> &nbsp |&nbsp &nbsp
+    <a href="#planejamento"><b>Planejamento</b></a> &nbsp |&nbsp &nbsp
+    <a href="#desenvolvimentosite"><b>Desenvolvimento do site</b></a> &nbsp |&nbsp &nbsp
+    <a href="#sprintreview"><b>Sprint Review</b></a>
+</p>
+
 <h1>1. Introdução </h1>
 
 
@@ -6,9 +15,12 @@
 
 <h3 text-align="justify">Sistema web mostrando os processos e artefatos da metodologia ágil Scrum com formulário de avaliação.</h3>
 <br>
+<span id="objetivos">
+    
 <h2>1.2	Objetivo</h2>
 <h3  text-align="justify">Demonstrar ao usuário a metodologia Scrum de forma que o mesmo possa replicar todos os passos em futuros desenvolvimentos.</h3>
 <br>
+<span id="desenvolvimento">    
 <h1>2. Desenvolvimento </h1>
 <h2>2.1	Tecnologias utilizadas</h2>
 <h3>2.1.1	Tecnologias front-end</h3>
@@ -24,6 +36,8 @@
 
 Foram efetuados esboços simples desenhados a mão para se ter uma ideia inicial do que seria feito no desenvolvimento do site. Após, o Project Owner se reuniu com o cliente apresentando esses esboços e a partir daí pôde definir quais seriam os próximos passos para o planejamento das Sprints.
 
+<span id="planejamento">
+    
 <h2>2.1.5	Planejamento das sprints</h2>
 
 <h3>2.1.5.1	Backlog Sprints</h3>
@@ -70,6 +84,7 @@ A primeira sprint foi feita considerando os requisitos, prazos e ordem de priori
 </figure>  
 </center>  
 </p>
+    <span id="desenvolvimentosite">
 <h2>2.1.6	Desenvolvimento do site</h2>
 Para o desenvolvimento do site, primeiramente foi validado o mockup, o qual, foi desenvolvido com base nas cores e fontes utilizadas no site do próprio cliente <a href="http://www.fatecsp.br"><b><span style="color: black;">(FATEC).</span></b></a>
 <p>
@@ -113,7 +128,7 @@ A versão 1 do site ficou pronta após ter sido feita a inclusão e disposição
 <text-align="justify">Em relação as dificuldades destacam-se a falta de conhecimento das ferramentas e a principal dificuldade encontrada na Sprint 1 foi em relação ao uso do Git Hub. Como solução temporária, esse controle foi feito pelo Trello e anotações das reuniões diárias (Daily Scrum). Buscando a solução, foram feitos levantamentos das dificuldades de cada integrante, a busca de estudo para solucionar as dificuldades, estudos sobre o Git Hub, alinhamento com os colegas, professores, buscando materiais complementares e como decisão, após conhecer melhor a ferramenta, o Kanban deixou de ser usado no Trello para, a partir da Sprint 2 ser usado direto no Git Hub.</text-align>
 <p>
 
-
+<span id="sprintreview">
 <h2>2.1.8	Sprint Review </h2>
 Confira aqui o detalhamento da Reunião da <a href= "https://github.com/TerraSoftwarehouse/Documentacao/blob/Sprint%231/imagens/Sprint%20Review%2001%2323.pdf"><b><span style="color: black;">Sprint Review</span></b></a> efetuada no dia 13/04/2023.
 
