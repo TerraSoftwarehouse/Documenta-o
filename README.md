@@ -8,5 +8,5 @@
 <p>
 </p>
 <p>
-<img src="https://github.com/TerraSoftwarehouse/Documentacao/blob/Sprint1/imagens/Logo.png" width="1600" height="200"/>
+<img src="https://github.com/TerraSoftwarehouse/Documentacao/blob/Sprint1/imagens/Logo.png" width="1600" height="250"/>
 </p>
