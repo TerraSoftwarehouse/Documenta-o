@@ -113,6 +113,10 @@ A versão 1 do site ficou pronta após ter sido feita a inclusão e disposição
 <text-align="justify">Em relação as dificuldades destacam-se a falta de conhecimento das ferramentas e a principal dificuldade encontrada na Sprint 1 foi em relação ao uso do Git Hub. Como solução temporária, esse controle foi feito pelo Trello e anotações das reuniões diárias (Daily Scrum). Buscando a solução, foram feitos levantamentos das dificuldades de cada integrante, a busca de estudo para solucionar as dificuldades, estudos sobre o Git Hub, alinhamento com os colegas, professores, buscando materiais complementares e como decisão, após conhecer melhor a ferramenta, o Kanban deixou de ser usado no Trello para, a partir da Sprint 2 ser usado direto no Git Hub.</text-align>
 <p>
 
+
+<h2>2.1.8	Sprint Review </h2>
+Confira aqui o detalhamento da Reunião da <a href= "https://github.com/TerraSoftwarehouse/Documentacao/tree/Sprint%231"><b><span style="color: black;">Sprint Review</span></b></a> efetuada no dia 13/04/2023.
+
 </p>
 <h1>3. Conclusão </h1>
 <text-align="justify">Processo extremamente enriquecedor, aonde buscamos o conhecimento além da sala de aula, adquirimos visão de mercado e melhoria no trabalho e tomada de decisões em conjunto.</text-align>
