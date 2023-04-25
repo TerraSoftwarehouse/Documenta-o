@@ -1,32 +1,33 @@
 <span id="topo">
 
-<h1 align="center">Sprint 2: 13/04/2023 a 07/05/2023</h1>
-
-<p align="center">
-    <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
-    <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
-    <a href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp
-    <a href="#links">Links úteis</a>
+<h1 align="center">Sprint 2</h1>
+<p>
 </p>
 
-O projeto se baseia no desenvolvimento de um site para observação de dados meteorológicos, assim abrangendo a montagem e configuração de uma estação meteorológica com diversos tipos de sensores e um sistema capaz de ler os dados enviados por ela, permitindo a análise de seus dados em gráficos e tabelas tanto em modelo desktop/web quanto mobile. Tendo em mente o MVP, a primeira sprint se deu com a criação de telas e funcionalidades "chave", tais como fluxos de usuários (criação, exclusão e listagem), bem como de estações, om sua listagem e criação automática pelo backend. Para isso, foram levantados e validados os requisitos e o protótipo, construindo os serviços e interfaces visando uma entrega de grande valor condizente com os desejos do cliente.
-
-<span id="objetivos">
+<p align="center">
+    <a href="#objetivos"><b>Objetivo</b></a> &nbsp |&nbsp &nbsp
+    <a href="#desenvolvimento"><b>Desenvolvimento</b></a> &nbsp |&nbsp &nbsp
+    <a href="#planejamento"><b>Planejamento</b></a> &nbsp |&nbsp &nbsp
+    <a href="#desenvolvimentosite"><b>Desenvolvimento do site</b></a> &nbsp |&nbsp &nbsp
+    <a href="#sprintreview"><b>Sprint Review</b></a>
+</p>
     
-## :dart: Objetivos da Sprint
-Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint são:
+<h2>Objetivos Sprint</h2>
 
-- :heavy_check_mark: **RF 03:** Cadastro das estações, parâmetros e usuários
-- :heavy_check_mark: **RF 05:** Dashboards para visualização dos parâmetros meteorológicos
-- :heavy_check_mark: **RNF 08:** Implementar CI/CD
-- :heavy_check_mark: **RNF 09:** Documentação
+
+<br>🔴 **Prioridade Alta:** Início da inserção do conteúdo
+<br>🔴 **Prioridade Alta::** Definição do modelo de avaliação
+<br>🟡 **Prioridade Média:** Atualização da Documentação no Repositório
+<br>🟡 **Prioridade Média:** Finalização do protótipo navegável
+<br>🟢 **Prioridade Baixa:** Inserção de Sugestão do Front-end (Menu)
+<br>🟢 **Prioridade Baixa:** Inserção do Modelo de Avaliação
 
 <span id="entregas">
         
-## 🌤 Entregas
-Para entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog das Sprints, Épicos e User Stories, através de comunicação direta entre o P.O. e o cliente. Para observar esses artefatos, acesse [este link](https://github.com/The-Bugger-Ducks/cloud-fox-documentation#backlogs).
+## Controle Presença
+Foi feito um controle mais lúdico de presença com o objetivo da equipe visualizar quanto tempo faltava para terminar o prazo e se reorganizar caso necessário a fim de cumprir as atividades.
 
-Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente, onde o resultado deste protótipo foi traduzido para um site em React e com as devidas integrações das funcionalidades acordadas para esta sprint.
+
 
 ### ❄️ RF 03: Cadastro das estações, parâmetros e usuários
 
