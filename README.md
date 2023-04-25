@@ -27,6 +27,11 @@
 ## Controle Presença
 Foi feito um controle mais lúdico de presença com o objetivo da equipe visualizar quanto tempo faltava para terminar o prazo e se reorganizar caso necessário a fim de cumprir as atividades.
 
+<figure>
+    <img src="Controle presença.jpg" width="900" height="800" alt="Protótipo Navegável"
+</figure>
+</center>
+
 
 
 ### ❄️ RF 03: Cadastro das estações, parâmetros e usuários
