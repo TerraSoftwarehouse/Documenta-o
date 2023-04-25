@@ -15,7 +15,7 @@
 <h2>Objetivos Sprint</h2>
 
 
-<br>🔴 **Prioridade Alta:** Início da inserção do conteúdo
+<br>🔴 **Prioridade Alta:** Início da formatação do conteúdo
 <br>🔴 **Prioridade Alta::** Definição do modelo de avaliação
 <br>🟡 **Prioridade Média:** Atualização da Documentação no Repositório
 <br>🟡 **Prioridade Média:** Finalização do protótipo navegável
