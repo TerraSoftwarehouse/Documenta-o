@@ -25,10 +25,10 @@
 <span id="entregas">
         
 ## Controle Presença
-Foi feito um controle mais lúdico de presença com o objetivo da equipe visualizar quanto tempo faltava para terminar o prazo e se reorganizar caso necessário a fim de cumprir as atividades.
+Foi feito um controle mais lúdico (utilizando as cores de cada um) de presença com o objetivo da equipe visualizar quanto tempo faltava para terminar o prazo e se reorganizar, caso necessário, a fim de cumprir as atividades dentro do prazo.
 
 <figure>
-    <img src="imagens/Controle presença.jpg" width="700" height="300" alt="Protótipo Navegável"
+    <img src="imagens/Controle presença.jpg" width="800" height="400" alt="Protótipo Navegável"
 </figure>
 </center>
 
