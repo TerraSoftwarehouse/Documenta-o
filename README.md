@@ -131,6 +131,8 @@ A versão 1 do site ficou pronta após ter sido feita a inclusão e disposição
 <span id="sprintreview">
 <h2>2.1.8	Sprint Review </h2>
 Confira aqui o detalhamento da Reunião da <a href= "https://github.com/TerraSoftwarehouse/Documentacao/blob/Sprint%231/imagens/Sprint%20Review%2001%2323.pdf"><b><span style="color: black;">Sprint Review</span></b></a> efetuada no dia 13/04/2023.
+<br>
+Abaixo temos as respostas de uma pesquisa online realizada com os colaboradores:
 
 <figure>
 <img src="imagens/respostas-pesquisa.jpg" alt="Pesquisa"/>
