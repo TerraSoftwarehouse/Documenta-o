@@ -27,47 +27,13 @@
 ## Controle Presença
 Foi feito um controle mais lúdico (utilizando as cores de cada um) de presença com o objetivo da equipe visualizar quanto tempo faltava para terminar o prazo e se reorganizar, caso necessário, a fim de cumprir as atividades dentro do prazo.
 
-<figcaption>Controle de Presença</figcaption>
 <figure>
-   <img src="imagens/Controle presença.jpg" width="800" height="400" 
-</figure>
-
-
-
-## Sprint Review
-Após a reunião da Sprint Review referente a Sprint 1 (13/04/2023) e definição das dificuldades encontradas na primeira sprint, foi decidida a mudança do kanban do trello para o Git Hub.
-
-<figcaption>Kanban-Git Hub</figcaption>
-
-<figure>
-    <img src="imagens/Kanban-GitHub.jpg" alt="Kanban-GitHub"
+    <img src="imagens/Controle presença.jpg" width="800" height="400" alt="Protótipo Navegável"
 </figure>
 </center>
 
 
-## Design
-A equipe de design iniciou a busca por referências de páginas de apresentação de equipes, plataformas de apresentação de conteúdos esteticamente agradáveis e referências de formatos adaptáveis de Layout para as apresentações.
-Após, foi feito o desenvolvimento do primeiro modelo para a página de apresentação da equipe.
 
-## Front-end
-Foi feita a pesquisa para deixar site responsivo e o início dos testes usando o bootstrap.
-<b>A equipe de front encontrou dificuldade no uso do bootstrap e focou no estudo do mesmo para dar continuidade no processo.</b>
-Foram feitos os ajustes do CSS e tela principal e os ajustes da página principal (módulos). O bootstrap foi adicionado no formulário de avaliação dos usuários.
-
-<br>
-<figcaption>Módulos - início</figcaption>
-<figure><img src="imagens/Modulos inicial.png" width="700" height="402" alt="Módulos - início"</figure>
-<p>
-
-<br>
-<figcaption>Módulos - responsivo</figcaption>
-<figure><img src="imagens/Modulos - responsivo.png" width="800" height="402" alt="Módulos - responsivo"</figure>
-</p>    
-    
-    
-
-
-<br>
 ### ❄️ RF 03: Cadastro das estações, parâmetros e usuários
 
 Este requisito se trata do cadastro de estações e usuários, o que significa permitir o CRUD completo de usuários além de criar, listar e acessar dados de estações. Para isso, foi desenvolvido o fluxo de usuários (desde login até exclusão de conta) e o dashboard de estações, porém, como o acordado entre time e cliente, o cadastro das estações será automático (entre a estação e o backend), sem parte interativa presente no frontend, mas sua automatização (do cadastro e recebimento dos dados de estações) serão desenvolvidos a partir da próxima sprint.
