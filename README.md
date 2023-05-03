@@ -94,11 +94,13 @@ Colocar Burndown do dia 04/05/2023.
 
 <b>Links Úteis</b>
 
-<br>Site do projeto: <a href=""><b></span></b></a>
+<br>Site do projeto: <a href="https://treinamento.terrasofthouse.com.br/"><b>https://treinamento.terrasofthouse.com.br/</span></b></a>
 
 <br>Repositório do site: <a href="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/tree/ajustes-site/site"><b>https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/tree/ajustes-site/site</span></b></a>.
 
 <br>Repositório da API (Sprint2): <a href="https://github.com/TerraSoftwarehouse/Sprint02"><b>https://github.com/TerraSoftwarehouse/Sprint02</b></a>
+
+<br>Kanban (Sprint2): <a href="https://github.com/users/TerraSoftwarehouse/projects/1/views/1"><b>https://github.com/users/TerraSoftwarehouse/projects/1/views/1</b></a>
 
 <br>Site empresa Terra Softhouse: <a href="https://terrasofthouse.com.br/"><b>https://terrasofthouse.com.br/</span></b></a>
 
