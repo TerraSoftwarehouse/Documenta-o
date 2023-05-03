@@ -33,9 +33,11 @@ As tarefas com dificuldades superior ou igual a oito foram reorganizadas e subdi
 
 Foram feitas as anotações referente a avaliação do grupo na apresentação da Sprint1 de forma a ficar clara as pontuações para todos os integrantes e serem aplicadas as devidas correções.
 
-<img src="imagens/Pontuações Sprint1.png" alt="Pontuações-Sprint1"
+<figure>
+<img src="imagens/Pontuações Sprint1.png" " alt="Pontuações Sprint1
+</figure>
 
-Após a reunião da Sprint Review referente a Sprint I (13/04/2023) e definição das dificuldades encontradas na primeira sprint, foi decidida a mudança do kanban do trello para o Git Hub.
+<br>Após a reunião da Sprint Review referente a Sprint I (13/04/2023) e definição das dificuldades encontradas na primeira sprint, foi decidida a mudança do Kanban do trello para o Git Hub.
 
 <figure>
 <img src="imagens/Kanban-GitHub.jpg" width="950" height="450" alt="Kanban-GitHub" 
@@ -46,10 +48,10 @@ Após a reunião da Sprint Review referente a Sprint I (13/04/2023) e definiçã
 ## Documentação
 
 Além da documentação padrão, a equipe de documentação trabalhou no site da empresa Terra, utilizanzo DoR - Definiton of ready (Critérios necessários para que uma história possa ser iniciada) e DoD - Definition of Done (Critérios para considerar uma história como concluída), visando vivenciar na prática a experiência de empresa como um todo.
-
+                       
 <figure>
-        <img src="imagens/Sprint poker.jpg" width=1000" height="780" alt="Planning Poker"
-</figure>
+<img src="imagens/Página Terra SofwareHouse.png" alt="Detalhamento DoR and DoD-Kanban" 
+</figure>                       
 
 <br>Conheça aqui o site da <a href="https://terrasofthouse.com.br/"><b><span style="color: rgb(64, 23, 175);">Terra Softhouse</span></b></a>.
 
@@ -89,11 +91,11 @@ Foi feito um controle mais lúdico (utilizando as cores de cada um) de presença
 
 <figure><img src="imagens/Controle presença.jpg" alt="Protótipo Navegável"</figure>
 
-<b>História de usuário (User Storie)</b>
+<b>Histórias de usuários (User Stories)</b>
 
-A História de usuário (User Storie) foi feita com o intuito de atender as expectativas dos envolvidos na avaliação do projeto.
+As Histórias de usuários (User Stories) foram feitas com o intuito de atender as expectativas dos envolvidos na avaliação do projeto.
 
-<figure><img src="imagens/User Storie.png" width="800" height="1000" alt="História de usuário (User Storie)"</figure>
+<figure><img src="imagens/User Storie.png" width="800" height="1000" alt="Histórias de usuários (User Stories)"</figure>
 
 <b>Burndown</b>
 
@@ -103,15 +105,15 @@ Colocar Burndown do dia 04/05/2023.
 
 <b>Links Úteis</b>
 
-<br>Site do projeto: <a href="https://treinamento.terrasofthouse.com.br/"><b>https://treinamento.terrasofthouse.com.br/</span></b></a>
+😏 Site do projeto: <a href="https://treinamento.terrasofthouse.com.br/"><b>https://treinamento.terrasofthouse.com.br/</span></b></a>
 
-<br>Repositório do site: <a href="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/tree/ajustes-site/site"><b>https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/tree/ajustes-site/site</span></b></a>.
+😀 Repositório do site: <a href="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/tree/ajustes-site/site"><b>https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/tree/ajustes-site/site</span></b></a>.
 
-<br>Repositório da API (Sprint2): <a href="https://github.com/TerraSoftwarehouse/Sprint02"><b>https://github.com/TerraSoftwarehouse/Sprint02</b></a>
+🙃 Repositório da API (Sprint2): <a href="https://github.com/TerraSoftwarehouse/Sprint02"><b>https://github.com/TerraSoftwarehouse/Sprint02</b></a>
 
-<br>Kanban (Sprint2): <a href="https://github.com/users/TerraSoftwarehouse/projects/1/views/1"><b>https://github.com/users/TerraSoftwarehouse/projects/1/views/1</b></a>
+🧐 Kanban (Sprint2): <a href="https://github.com/users/TerraSoftwarehouse/projects/1/views/1"><b>https://github.com/users/TerraSoftwarehouse/projects/1/views/1</b></a>
 
-<br>Site empresa Terra Softhouse: <a href="https://terrasofthouse.com.br/"><b>https://terrasofthouse.com.br/</span></b></a>
+😎 Site empresa Terra Softhouse: <a href="https://terrasofthouse.com.br/"><b>https://terrasofthouse.com.br/</span></b></a>
 
 
 → [Voltar ao topo](#topo)
