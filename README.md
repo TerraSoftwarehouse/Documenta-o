@@ -34,7 +34,7 @@ As tarefas com dificuldades superior ou igual a oito foram reorganizadas e subdi
 Foram feitas as anotações referente a avaliação do grupo na apresentação da Sprint1 de forma a ficar clara as pontuações para todos os integrantes e serem aplicadas as devidas correções.
 
 <figure>
-<img src="imagens/Pontuações Sprint1.png" " alt="Pontuações Sprint1
+<img src="imagens/Pontuações Sprint1.png" width=900" height="300" alt="Pontuações Sprint1
 </figure>
 
 <br>Após a reunião da Sprint Review referente a Sprint I (13/04/2023) e definição das dificuldades encontradas na primeira sprint, foi decidida a mudança do Kanban do trello para o Git Hub.
