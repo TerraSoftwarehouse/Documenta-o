@@ -31,6 +31,10 @@ As tarefas com dificuldades superior ou igual a oito foram reorganizadas e subdi
         
 ## Sprint Review
 
+Foram feitas as anotações referente a avaliação do grupo na apresentação da Sprint1 de forma a ficar clara as pontuações para todos os integrantes e serem aplicadas as devidas correções.
+
+<img src="imagens/Pontuações Sprint1.png" alt="Pontuações-Sprint1"
+
 Após a reunião da Sprint Review referente a Sprint I (13/04/2023) e definição das dificuldades encontradas na primeira sprint, foi decidida a mudança do kanban do trello para o Git Hub.
 
 <figure>
@@ -41,7 +45,12 @@ Após a reunião da Sprint Review referente a Sprint I (13/04/2023) e definiçã
 
 ## Documentação
 
-Além da documentação padrão, a equipe de documentação trabalhou no site da empresa Terra, visando vivenciar na prática a experiência de empresa como um todo.
+Além da documentação padrão, a equipe de documentação trabalhou no site da empresa Terra, utilizanzo DoR - Definiton of ready (Critérios necessários para que uma história possa ser iniciada) e DoD - Definition of Done (Critérios para considerar uma história como concluída), visando vivenciar na prática a experiência de empresa como um todo.
+
+<figure>
+        <img src="imagens/Sprint poker.jpg" width=1000" height="780" alt="Planning Poker"
+</figure>
+
 <br>Conheça aqui o site da <a href="https://terrasofthouse.com.br/"><b><span style="color: rgb(64, 23, 175);">Terra Softhouse</span></b></a>.
 
 <span id="design">
