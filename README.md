@@ -20,6 +20,13 @@
 <br>🟢 **Prioridade Baixa:** Inserção de Sugestão do Front-end (Menu)
 <br>🟢 **Prioridade Baixa:** Inserção do Modelo de Avaliação
 
+A técnica do Planning Poker foi utilizada nessa Sprint após ter sido efetuada uma revisão do backlog e feita uma avaliação das dificuldades de cada tarefa, obtendo uma estimativa precisa do esforço que seria necessário.
+As tarefas com dificuldades superior ou igual a oito foram reorganizadas e subdivididas em novas tarefas menores, de forma a melhorar a eficiência e a entrega de forma mais ágil, a técnica do Planning Poker também foi utilizada nessas subdivisões, fazendo com que, o tempo de execução das atividades fosse feito de forma mais precisa e refinada até a finalização da Sprint 2.
+
+<figure>
+<img src="imagens/Sprint poker.jpg" width=1000" height="780" alt="Planning Poker" 
+</figure>
+
 <span id="sprintreview">
         
 ## Sprint Review
@@ -73,9 +80,11 @@ Foi feito um controle mais lúdico (utilizando as cores de cada um) de presença
 
 <figure><img src="imagens/Controle presença.jpg" alt="Protótipo Navegável"</figure>
 
-<b>User Storie</b>
+<b>História de usuário (User Storie)</b>
 
-Colocar imagem feita pelo designer
+A História de usuário (User Storie) foi feita com o intuito de atender as expectativas dos envolvidos na avaliação do projeto.
+
+<figure><img src="imagens/User Storie.png" width="800" height="1000" alt="História de usuário (User Storie)"</figure>
 
 <b>Burndown</b>
 
