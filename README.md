@@ -26,8 +26,9 @@
 
 ## Planning Poker
 
-A técnica do Planning Poker foi utilizada nessa Sprint após ter sido efetuada uma revisão do backlog e feita uma avaliação das dificuldades de cada tarefa, obtendo uma estimativa precisa do esforço que seria necessário.
-As tarefas com dificuldades superior ou igual a oito foram reorganizadas e subdivididas em novas tarefas menores, de forma a melhorar a eficiência e a entrega de forma mais ágil, a técnica do Planning Poker também foi utilizada nessas subdivisões, fazendo com que, o tempo de execução das atividades fosse feito de forma mais precisa e refinada até a finalização da Sprint 2.
+- A técnica do Planning Poker foi utilizada nessa Sprint após ter sido efetuada uma revisão do backlog e feita uma avaliação das dificuldades de cada tarefa, obtendo uma estimativa precisa do esforço que seria necessário.
+<br>As tarefas com dificuldades superior ou igual a oito foram reorganizadas e subdivididas em novas tarefas menores, de forma a melhorar a eficiência e a entrega de forma mais ágil.
+<br>A técnica do Planning Poker também foi utilizada nessas subdivisões, fazendo com que, o tempo de execução das atividades fosse feito de forma mais precisa e refinada até a finalização da Sprint 2.
 
 <figure><img src="imagens/Sprint poker.jpg" width=1000" height="780" alt="Planning Poker" </figure>
 
@@ -35,13 +36,13 @@ As tarefas com dificuldades superior ou igual a oito foram reorganizadas e subdi
 
 ## Sprint Review
 
-Na apresentção da Sprint 1, foram feitas as anotações referentes a avaliação do grupo, de forma a ficarem claras as pontuações para todos os integrantes e serem aplicadas as devidas correções.
+- Na apresentção da Sprint 1, foram feitas as anotações referentes a avaliação do grupo, de forma a ficarem claras as pontuações para todos os integrantes e serem aplicadas as devidas correções.
 
 <figure><img src="imagens/Pontuações Sprint1.png" width=900" height="300" alt="Pontuações Sprint1" </figure>
     
 ## Mudanças
 
-Após a reunião da Sprint Review referente a Sprint I (13/04/2023) e definição das dificuldades encontradas na primeira sprint, foi decidida a mudança do Kanban do trello para o Git Hub e dentro de cada tarefa foram inseridas as devidas prioridades.
+- Após a reunião da Sprint Review referente a Sprint I (13/04/2023) e definição das dificuldades encontradas na primeira sprint, foi decidida a mudança do Kanban do trello para o Git Hub e dentro de cada tarefa foram inseridas as devidas prioridades.
     
 <figure><img src="imagens/Kanban-GitHub.jpg" width="950" height="450" alt="Kanban-GitHub"</figure>    
     
@@ -51,7 +52,7 @@ Após a reunião da Sprint Review referente a Sprint I (13/04/2023) e definiçã
 
 ## Equipe
 
-A divisão da equipe foi feita separando inicialmente duas pessoas para a documentação, três pessoas para o front-end, uma pessoa cuidando do conteúdo do site e uma pessoa cuidando do design, além do Product Owner e do Master.
+- A divisão da equipe foi feita separando inicialmente duas pessoas para a documentação, três pessoas para o front-end, uma pessoa cuidando do conteúdo do site e uma pessoa cuidando do design, além do Product Owner e do Master.
 <br>No decorrer da Sprint, uma pessoa foi retirada da documentação e alocada como apoio tanto ao master, quanto no desenvolvimento do site da empresa Terra Softhouse. 
 <br>E já no final da sprint, o design após o término das respectivas atividades, também foi realocado para auxiliar na parte do conteúdo do site. 
 
@@ -59,7 +60,7 @@ A divisão da equipe foi feita separando inicialmente duas pessoas para a docume
 
 ## Documentação
 
-Além da documentação padrão, a equipe de documentação trabalhou no site da empresa Terra, utilizanzo DoR - Definiton of ready (Critérios necessários para que uma história possa ser iniciada) e DoD - Definition of Done (Critérios para considerar uma história como concluída), visando vivenciar na prática a experiência de empresa como um todo.
+- Além da documentação padrão, a equipe de documentação trabalhou no site da empresa Terra, utilizanzo DoR - Definiton of ready (Critérios necessários para que uma história possa ser iniciada) e DoD - Definition of Done (Critérios para considerar uma história como concluída), visando vivenciar na prática a experiência de empresa como um todo.
                        
 <figure>
 <img src="imagens/Página Terra SofwareHouse.png" alt="Detalhamento DoR and DoD-Kanban" 
@@ -71,25 +72,25 @@ Além da documentação padrão, a equipe de documentação trabalhou no site da
 
 ## Design
 
-A equipe de design iniciou a busca por referências de páginas de apresentação de equipes, plataformas de apresentação de conteúdos esteticamente agradáveis e referências de formatos adaptáveis de Layout para as apresentações.
-Após, foi feito o desenvolvimento do primeiro modelo para a página de apresentação da equipe.
+- O responsável pelo design iniciou a busca por referências de páginas de apresentação de equipes, plataformas de apresentação de conteúdos esteticamente agradáveis e referências de formatos adaptáveis de Layout para as apresentações.
+Após, foi feito o desenvolvimento do primeiro modelo para a página de apresentação da equipe e demais designs necessários a continuidade do processo.
 
 <span id="frontend">
 
 ## Front-end
 
-Foi feita uma pesquisa para deixar o site responsivo e o início dos testes usando o bootstrap.
+- Foi feita uma pesquisa para deixar o site responsivo e o início dos testes usando o bootstrap.
 <b>A equipe de front encontrou dificuldade no uso do bootstrap e focou no estudo do mesmo para dar continuidade no processo.</b><br> Foram feitos os ajustes do CSS e tela principal e os ajustes dos módulos na página principal.
 
 <figure><img src="imagens/Modulos inicial.png" width="800" height="402" alt="Módulos-início"</figure>
     
-A página responsiva ficou pronta e foram adicionados os links, ficando preparada para receber o conteúdo.
+- A página responsiva ficou pronta e foram adicionados os links, ficando preparada para receber o conteúdo.
 
 <figure><img src="imagens/Site responsivo.jpg" width="800" height="402" alt="Site-responsivo"</figure>
     
 <figure><img src="imagens/Módulos - responsivo.jpg" width="800" height="402" alt="Módulos-responsivo"</figure>
 
-O layout da página de avaliação foi finalizado com bootstrap, deixando o mesmo preparado para receber o conteúdo.
+- O layout da página de avaliação foi finalizado com bootstrap, deixando o mesmo preparado para receber o conteúdo.
 
 <figure><img src="imagens/Layout página Quizz.jpg" width="800" height="402" alt="Página Avaliação"</figure>
 
@@ -100,19 +101,19 @@ O layout da página de avaliação foi finalizado com bootstrap, deixando o mesm
 
 <b>Controle Presença</b>
 
-Foi feito um controle mais lúdico (utilizando as cores de cada um) de presença com o objetivo da equipe visualizar quanto tempo faltava para terminar o prazo e se reorganizar, caso necessário, a fim de cumprir as atividades dentro do prazo.
+- Foi feito um controle mais lúdico (utilizando as cores de cada um) de presença com o objetivo da equipe visualizar quanto tempo faltava para terminar o prazo e se reorganizar, caso necessário, a fim de cumprir as atividades dentro do prazo.
 
 <figure><img src="imagens/Controle presença.jpg" alt="Protótipo Navegável"</figure>
 
 <b>Histórias de usuários (User Stories)</b>
 
-As Histórias de usuários (User Stories) foram feitas com o intuito de atender as expectativas dos envolvidos na avaliação do projeto.
+- As Histórias de usuários (User Stories) foram feitas com o intuito de atender as expectativas dos envolvidos na avaliação do projeto.
 
 <figure><img src="imagens/User Storie.png" width="1500" height="1200" alt="Histórias de usuários (User Stories)"</figure>
 
 <b>Burndown</b>
 
-Colocar Burndown do dia 04/05/2023.
+    <b>Colocar Burndown do dia 04/05/2023.</b>
 
 <span id="links">
 
