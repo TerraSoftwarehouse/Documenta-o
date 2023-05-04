@@ -101,7 +101,7 @@ A página responsiva ficou pronta e foram adicionados os links, ficando preparad
     
 <figure><img src="imagens/Módulos - responsivo.jpg" width="800" height="402" alt="Módulos-responsivo"</figure>
 
-Foi feito o layout da página de avaliação com bootstrap.
+O layout da página de avaliação foi finalizado com bootstrap, deixando o mesmo preparado para receber o conteúdo.
 
 <figure><img src="imagens/Layout página Quizz.jpg" width="800" height="402" alt="Página Avaliação"</figure>
 
