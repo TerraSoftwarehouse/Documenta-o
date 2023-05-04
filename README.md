@@ -33,10 +33,10 @@ As tarefas com dificuldades superior ou igual a oito foram reorganizadas e subdi
 <img src="imagens/Sprint poker.jpg" width=1000" height="780" alt="Planning Poker" 
 </figure>
 
+→ [Voltar ao topo](#topo)
+
 <span id="sprintreview">
 
-→ [Voltar ao topo](#topo)
-        
 ## Sprint Review
 
 Foram feitas as anotações referente a avaliação do grupo na apresentação da Sprint1 de forma a ficar clara as pontuações para todos os integrantes e serem aplicadas as devidas correções.
