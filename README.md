@@ -21,6 +21,8 @@
 <br>🟢 **Prioridade Baixa:** Inserção de Sugestão do Front-end (Menu)
 <br>🟢 **Prioridade Baixa:** Inserção do Modelo de Avaliação
 
+## Planning Poker
+
 A técnica do Planning Poker foi utilizada nessa Sprint após ter sido efetuada uma revisão do backlog e feita uma avaliação das dificuldades de cada tarefa, obtendo uma estimativa precisa do esforço que seria necessário.
 As tarefas com dificuldades superior ou igual a oito foram reorganizadas e subdivididas em novas tarefas menores, de forma a melhorar a eficiência e a entrega de forma mais ágil, a técnica do Planning Poker também foi utilizada nessas subdivisões, fazendo com que, o tempo de execução das atividades fosse feito de forma mais precisa e refinada até a finalização da Sprint 2.
 
