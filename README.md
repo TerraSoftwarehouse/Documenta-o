@@ -1,6 +1,7 @@
 <p align="center">
         <a href="#objetivos"><b>Objetivos</b></a> &nbsp |&nbsp &nbsp
         <a href="#sprintreview"><b>Sprint Review</b></a> &nbsp |&nbsp &nbsp
+        <a href="#equipe"><b>Equipe</b></a> &nbsp |&nbsp &nbsp
         <a href="#documentacao"><b>Documentação</b></a> &nbsp |&nbsp &nbsp
         <a href="#design"><b>Design</b></a> &nbsp |&nbsp &nbsp
         <a href="#frontend"><b>Front-end</b></a> &nbsp |&nbsp &nbsp
@@ -43,6 +44,20 @@ Foram feitas as anotações referente a avaliação do grupo na apresentação d
 <img src="imagens/Kanban-GitHub.jpg" width="950" height="450" alt="Kanban-GitHub" 
 </figure>
 
+Dentro de cada tarefa foram inseridas as devidas prioridades.
+
+<figure>
+<img src="imagens/Kanban com prioridades.png" width="950" height="450" alt="Kanban-prioridades" 
+</figure>
+
+<span id="equipe">
+
+## Equipe
+
+<br> divisão da equipe foi feita separando inicialmente duas pessoas para a documentação, três pessoas para o front-end, uma pessoa cuidando do conteúdo do site e uma pessoa cuidando do design, além do Product Owner e do Master.
+<br>No decorrer da Sprint, uma pessoa foi retirada da documentação e alocada como apoio tanto ao master, quanto no desenvolvimento do site da empresa Terra Softhouse. 
+<br>E já no final da sprint, o design após o término das respectivas atividades, também foi realocado para auxiliar na parte do conteúdo do site. 
+
 <span id="documentacao">
 
 ## Documentação
@@ -75,7 +90,7 @@ A página responsiva ficou pronta e foram adicionados os links, ficando preparad
 
 <figure><img src="imagens/Site responsivo.jpg" width="800" height="402" alt="Site-responsivo"</figure>
     
-<figure><img src="imagens/Módulos - responsivo.jpg" width="800" height="402" alt="Módulos - responsivo"</figure>
+<figure><img src="imagens/Módulos - responsivo.jpg" width="800" height="402" alt="Módulos-responsivo"</figure>
 
 Foi feito o layout da página de avaliação com bootstrap.
 
@@ -95,7 +110,7 @@ Foi feito um controle mais lúdico (utilizando as cores de cada um) de presença
 
 As Histórias de usuários (User Stories) foram feitas com o intuito de atender as expectativas dos envolvidos na avaliação do projeto.
 
-<figure><img src="imagens/User Storie.png" width="800" height="1000" alt="Histórias de usuários (User Stories)"</figure>
+<figure><img src="imagens/User Storie.png" width="1500" height="1200" alt="Histórias de usuários (User Stories)"</figure>
 
 <b>Burndown</b>
 
