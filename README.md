@@ -29,11 +29,7 @@
 A técnica do Planning Poker foi utilizada nessa Sprint após ter sido efetuada uma revisão do backlog e feita uma avaliação das dificuldades de cada tarefa, obtendo uma estimativa precisa do esforço que seria necessário.
 As tarefas com dificuldades superior ou igual a oito foram reorganizadas e subdivididas em novas tarefas menores, de forma a melhorar a eficiência e a entrega de forma mais ágil, a técnica do Planning Poker também foi utilizada nessas subdivisões, fazendo com que, o tempo de execução das atividades fosse feito de forma mais precisa e refinada até a finalização da Sprint 2.
 
-<figure>
-<img src="imagens/Sprint poker.jpg" width=1000" height="780" alt="Planning Poker" 
-</figure>
-
-→ [Voltar ao topo](#topo)
+<figure><img src="imagens/Sprint poker.jpg" width=1000" height="780" alt="Planning Poker" </figure>
 
 <span id="sprintreview">
 
@@ -42,14 +38,11 @@ As tarefas com dificuldades superior ou igual a oito foram reorganizadas e subdi
 Foram feitas as anotações referente a avaliação do grupo na apresentação da Sprint1 de forma a ficar clara as pontuações para todos os integrantes e serem aplicadas as devidas correções.
 
 <figure>
-<img src="imagens/Pontuações Sprint1.png" width=900" height="300" alt="Pontuações Sprint1
-</figure>
+<img src="imagens/Pontuações Sprint1.png" width=900" height="300" alt="Pontuações Sprint1</figure>
 
 <br>Após a reunião da Sprint Review referente a Sprint I (13/04/2023) e definição das dificuldades encontradas na primeira sprint, foi decidida a mudança do Kanban do trello para o Git Hub.
 
-<figure>
-<img src="imagens/Kanban-GitHub.jpg" width="950" height="450" alt="Kanban-GitHub" 
-</figure>
+<figure><img src="imagens/Kanban-GitHub.jpg" width="950" height="450" alt="Kanban-GitHub" </figure>
 
 Dentro de cada tarefa foram inseridas as devidas prioridades.
 
@@ -61,7 +54,7 @@ Dentro de cada tarefa foram inseridas as devidas prioridades.
 
 ## Equipe
 
-<br> A divisão da equipe foi feita separando inicialmente duas pessoas para a documentação, três pessoas para o front-end, uma pessoa cuidando do conteúdo do site e uma pessoa cuidando do design, além do Product Owner e do Master.
+A divisão da equipe foi feita separando inicialmente duas pessoas para a documentação, três pessoas para o front-end, uma pessoa cuidando do conteúdo do site e uma pessoa cuidando do design, além do Product Owner e do Master.
 <br>No decorrer da Sprint, uma pessoa foi retirada da documentação e alocada como apoio tanto ao master, quanto no desenvolvimento do site da empresa Terra Softhouse. 
 <br>E já no final da sprint, o design após o término das respectivas atividades, também foi realocado para auxiliar na parte do conteúdo do site. 
 
