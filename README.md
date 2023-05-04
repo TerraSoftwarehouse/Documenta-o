@@ -38,7 +38,7 @@
 
 - Na apresentção da Sprint 1, foram feitas as anotações referentes a avaliação do grupo, de forma a ficarem claras as pontuações para todos os integrantes e serem aplicadas as devidas correções.
 
-<figure><img src="imagens/Pontuações Sprint1.jpg" width=900" height="300" alt="Pontuações Sprint1" </figure>
+<figure><img src="imagens/Pontuações Sprint1.jpg" alt="Pontuações Sprint1" </figure>
     
 ## Mudanças
 
