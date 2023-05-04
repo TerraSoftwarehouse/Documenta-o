@@ -42,13 +42,11 @@ Foram feitas as anotações referente a avaliação do grupo na apresentação d
 
 <br>Após a reunião da Sprint Review referente a Sprint I (13/04/2023) e definição das dificuldades encontradas na primeira sprint, foi decidida a mudança do Kanban do trello para o Git Hub.
 
-<figure><img src="imagens/Kanban-GitHub.jpg" width="950" height="450" alt="Kanban-GitHub" </figure>
+<figure><img src="imagens/Kanban-GitHub.jpg" width="950" height="450" alt="Kanban-GitHub"</figure>
 
 Dentro de cada tarefa foram inseridas as devidas prioridades.
 
-<figure>
-<img src="imagens/Kanban com prioridades.png" width="950" height="450" alt="Kanban-prioridades" 
-</figure>
+<figure><img src="imagens/Kanban com prioridades.png" width="950" height="450" alt="Kanban-prioridades"</figure>
 
 <span id="equipe">
 
