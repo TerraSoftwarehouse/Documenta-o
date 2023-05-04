@@ -94,8 +94,13 @@ Após, foi feito o desenvolvimento do primeiro modelo para a página de apresent
 
 <figure><img src="imagens/Layout página Quizz.jpg" width="800" height="402" alt="Página Avaliação"</figure>
 
-<span id="metricas">
+- Imagem da página de avaliação do usuário (aguardando conteúdo) e diploma que os usuários irão receber após finalização do quizz.
 
+<figure><img src="imagens/Nota Avaliação Quizz.jpg" alt="Nota avaliação Quizz"</figure>
+
+<figure><img src="imagens/Modelo Diploma Quizz.jpg" alt="Modelo Diploma Quizz"</figure>
+
+<span id="metricas">
 
 ## Métricas do Time
 
@@ -111,13 +116,15 @@ Após, foi feito o desenvolvimento do primeiro modelo para a página de apresent
 
 <figure><img src="imagens/User Storie.png" width="1500" height="1200" alt="Histórias de usuários (User Stories)"</figure>
 
-<b>Burndown</b>
+# Burndown
 
-    <b>Colocar Burndown do dia 04/05/2023.</b>
+Gráfico de Burndown da data de 04/05/2023.
+
+- Colocar Burndown do dia 04/05/2023.
 
 <span id="links">
 
-<b>Links Úteis</b>
+# Links Úteis
 
 😏 Site do projeto: <a href="https://treinamento.terrasofthouse.com.br/"><b>https://treinamento.terrasofthouse.com.br/</span></b></a>
 
