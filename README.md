@@ -39,8 +39,10 @@ Na apresentção da Sprint 1, foram feitas as anotações referentes a avaliaç�
 
 <figure>
 <img src="imagens/Pontuações Sprint1.png" width=900" height="300" alt="Pontuações Sprint1</figure>
+    
+## Mudanças
 
-<br>Após a reunião da Sprint Review referente a Sprint I (13/04/2023) e definição das dificuldades encontradas na primeira sprint, foi decidida a mudança do Kanban do trello para o Git Hub e dentro de cada tarefa foram inseridas as devidas prioridades.
+Após a reunião da Sprint Review referente a Sprint I (13/04/2023) e definição das dificuldades encontradas na primeira sprint, foi decidida a mudança do Kanban do trello para o Git Hub e dentro de cada tarefa foram inseridas as devidas prioridades.
     
 <figure><img src="imagens/Kanban-GitHub.jpg" width="950" height="450" alt="Kanban-GitHub"</figure>    
     
