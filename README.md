@@ -120,7 +120,7 @@ Após, foi feito o desenvolvimento do primeiro modelo para a página de apresent
 
 <figure><img src="imagens/User Storie.png" alt="Histórias de usuários (User Stories)"</figure>
 
-# Burndown
+<b>Burndown</b>
 
 Gráfico de Burndown da data de 04/05/2023.
 
