@@ -42,19 +42,19 @@
     
 ## Mudanças
 
-- Após a reunião da Sprint Review referente a Sprint I (13/04/2023) e definição das dificuldades encontradas na primeira sprint, foi decidida a mudança do Kanban do trello para o Git Hub e dentro de cada tarefa foram inseridas as devidas prioridades.
+- Após a reunião da Sprint Review referente a Sprint I (13/04/2023) e definição das dificuldades encontradas na primeira sprint, foi decidida a mudança do Kanban do Trello para o Git Hub e dentro de cada tarefa foram inseridas as devidas prioridades.
     
-<figure><img src="imagens/Kanban-GitHub.jpg" width="950" height="450" alt="Kanban-GitHub"</figure>    
+<figure><img src="imagens/Kanban-GitHub.jpg" alt="Kanban-GitHub"</figure>    
     
-<figure><img src="imagens/Kanban com prioridades.png" width="950" height="450" alt="Kanban-prioridades"</figure>
+<figure><img src="imagens/Kanban com prioridades.png" alt="Kanban-prioridades"</figure>
 
 <span id="equipe">
 
 ## Equipe
 
 - A divisão da equipe foi feita separando inicialmente duas pessoas para a documentação, três pessoas para o front-end, uma pessoa cuidando do conteúdo do site e uma pessoa cuidando do design, além do Product Owner e do Master.
-<br>No decorrer da Sprint, uma pessoa foi retirada da documentação e alocada como apoio tanto ao master, quanto no desenvolvimento do site da empresa Terra Softhouse. 
-<br>E já no final da sprint, o design após o término das respectivas atividades, também foi realocado para auxiliar na parte do conteúdo do site. 
+<br>No decorrer da Sprint, uma pessoa foi retirada da documentação e alocada como apoio tanto ao Master, quanto no desenvolvimento do site da empresa Terra Softhouse. 
+<br>Já no final da Sprint, o designer após o término das respectivas atividades, também foi realocado para auxiliar na parte do conteúdo do site. 
 
 <span id="documentacao">
 
@@ -82,11 +82,11 @@ Após, foi feito o desenvolvimento do primeiro modelo para a página de apresent
 ## Front-end
 
 - Foi feita uma pesquisa para deixar o site responsivo e o início dos testes usando o bootstrap.
-<b>A equipe de front encontrou dificuldade no uso do bootstrap e focou no estudo do mesmo para dar continuidade no processo.</b><br> Foram feitos os ajustes do CSS e tela principal e os ajustes dos módulos na página principal.
+<b>A equipe de front encontrou dificuldade no uso do bootstrap e focou no estudo do mesmo para dar continuidade no processo.</b><br>Após, foram feitos os ajustes do CSS e tela principal e os ajustes dos módulos na página principal.
 
 <figure><img src="imagens/Modulos inicial.png" width="800" height="402" alt="Módulos-início"</figure>
     
-- A página responsiva ficou pronta e foram adicionados os links, ficando preparada para receber o conteúdo.
+- Foram adicionados os links na página de treinamento deixando-a finalizada e responsiva aguardando o recebimento de conteúdo.
 
 <figure><img src="imagens/Site responsivo.jpg" width="800" height="402" alt="Site-responsivo"</figure>
     
@@ -96,7 +96,7 @@ Após, foi feito o desenvolvimento do primeiro modelo para a página de apresent
 
 <figure><img src="imagens/Layout página Quizz.jpg" width="800" height="402" alt="Página Avaliação"</figure>
 
-- Imagem da página de avaliação do usuário (aguardando conteúdo) e diploma que os usuários irão receber após finalização do quizz.
+- Imagem da página de avaliação do usuário (aguardando conteúdo) e diploma que os usuários irão receber após finalização do Quizz.
 
 <figure><img src="imagens/Nota Avaliação Quizz.jpg" alt="Nota avaliação Quizz"</figure>
 
