@@ -61,7 +61,7 @@ Dentro de cada tarefa foram inseridas as devidas prioridades.
 
 ## Equipe
 
-<br> divisão da equipe foi feita separando inicialmente duas pessoas para a documentação, três pessoas para o front-end, uma pessoa cuidando do conteúdo do site e uma pessoa cuidando do design, além do Product Owner e do Master.
+<br> A divisão da equipe foi feita separando inicialmente duas pessoas para a documentação, três pessoas para o front-end, uma pessoa cuidando do conteúdo do site e uma pessoa cuidando do design, além do Product Owner e do Master.
 <br>No decorrer da Sprint, uma pessoa foi retirada da documentação e alocada como apoio tanto ao master, quanto no desenvolvimento do site da empresa Terra Softhouse. 
 <br>E já no final da sprint, o design após o término das respectivas atividades, também foi realocado para auxiliar na parte do conteúdo do site. 
 
