@@ -124,7 +124,7 @@ Após, foi feito o desenvolvimento do primeiro modelo para a página de apresent
 
 Gráfico de Burndown da data de 04/05/2023.
 
-- Colocar Burndown do dia 04/05/2023.
+<figure><img src="imagens/Burndown 04-05.png" alt="Burndown 04-05-2023"</figure>
 
 <span id="links">
 
