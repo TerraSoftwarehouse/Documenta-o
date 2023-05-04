@@ -68,6 +68,8 @@
 
 <br>Conheça aqui o site da <a href="https://terrasofthouse.com.br/"><b><span style="color: rgb(64, 23, 175);">Terra Softhouse</span></b></a>.
 
+→ [Voltar ao topo](#topo)
+
 <span id="design">
 
 ## Design
@@ -99,6 +101,8 @@ Após, foi feito o desenvolvimento do primeiro modelo para a página de apresent
 <figure><img src="imagens/Nota Avaliação Quizz.jpg" alt="Nota avaliação Quizz"</figure>
 
 <figure><img src="imagens/Modelo Diploma Quizz.jpg" alt="Modelo Diploma Quizz"</figure>
+
+→ [Voltar ao topo](#topo)
 
 <span id="metricas">
 
