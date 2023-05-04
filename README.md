@@ -34,6 +34,8 @@ As tarefas com dificuldades superior ou igual a oito foram reorganizadas e subdi
 </figure>
 
 <span id="sprintreview">
+
+→ [Voltar ao topo](#topo)
         
 ## Sprint Review
 
@@ -77,6 +79,8 @@ Além da documentação padrão, a equipe de documentação trabalhou no site da
 
 <span id="design">
 
+→ [Voltar ao topo](#topo)
+
 ## Design
 
 A equipe de design iniciou a busca por referências de páginas de apresentação de equipes, plataformas de apresentação de conteúdos esteticamente agradáveis e referências de formatos adaptáveis de Layout para as apresentações.
@@ -102,6 +106,8 @@ Foi feito o layout da página de avaliação com bootstrap.
 <figure><img src="imagens/Layout página Quizz.jpg" width="800" height="402" alt="Página Avaliação"</figure>
 
 <span id="metricas">
+
+→ [Voltar ao topo](#topo)
 
 ## Métricas do Time
 
