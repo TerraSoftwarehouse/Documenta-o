@@ -72,8 +72,6 @@ Além da documentação padrão, a equipe de documentação trabalhou no site da
 
 <span id="design">
 
-→ [Voltar ao topo](#topo)
-
 ## Design
 
 A equipe de design iniciou a busca por referências de páginas de apresentação de equipes, plataformas de apresentação de conteúdos esteticamente agradáveis e referências de formatos adaptáveis de Layout para as apresentações.
@@ -100,7 +98,6 @@ O layout da página de avaliação foi finalizado com bootstrap, deixando o mesm
 
 <span id="metricas">
 
-→ [Voltar ao topo](#topo)
 
 ## Métricas do Time
 
