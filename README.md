@@ -18,7 +18,7 @@
 
 
 <br>🔴 **Prioridade Alta:** Início da formatação do conteúdo
-<br>🔴 **Prioridade Alta::** Definição do modelo de avaliação
+<br>🔴 **Prioridade Alta:** Definição do modelo de avaliação
 <br>🟡 **Prioridade Média:** Atualização da Documentação no Repositório
 <br>🟡 **Prioridade Média:** Finalização do protótipo navegável
 <br>🟢 **Prioridade Baixa:** Inserção de Sugestão do Front-end (Menu)
