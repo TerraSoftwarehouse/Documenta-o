@@ -24,6 +24,12 @@
 <br>🟢 **Prioridade Baixa:** Inserção de Sugestão do Front-end (Menu)
 <br>🟢 **Prioridade Baixa:** Inserção do Modelo de Avaliação
 
+## Sprint Planning Meeting
+
+- Após o review da primeira Sprint, os colaboradores responderam a um questionário no Google Form apontando as dificuldades e dando sugestões para a Sprint 2 (atual).
+
+<figure><img src="imagens/respostas-pesquisa.jpg" alt="Resposta pesquisa" </figure>
+
 ## Planning Poker
 
 - A técnica do Planning Poker foi utilizada nessa Sprint após ter sido efetuada uma revisão do backlog e feita uma avaliação das dificuldades de cada tarefa, obtendo uma estimativa precisa do esforço que seria necessário.
