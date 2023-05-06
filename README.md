@@ -26,7 +26,7 @@
 
 ## Sprint Planning Meeting
 
-- Após o review da primeira Sprint, os colaboradores responderam a um questionário no Google Form apontando as dificuldades e dando sugestões para a Sprint 2 (atual).
+- Após o review da primeira Sprint, os colaboradores responderam a um questionário no Google Forms apontando as dificuldades e dando sugestões para a Sprint 2 (atual).
 
 <figure><img src="imagens/respostas-pesquisa.jpg" alt="Resposta pesquisa" </figure>
 
