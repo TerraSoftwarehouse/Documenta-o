@@ -24,12 +24,6 @@
 <br>🟢 **Prioridade Baixa:** Inserção de Sugestão do Front-end (Menu)
 <br>🟢 **Prioridade Baixa:** Inserção do Modelo de Avaliação
 
-## Sprint Planning Meeting
-
-- Após o review da primeira Sprint, os colaboradores responderam a um questionário no Google Forms apontando as dificuldades e dando sugestões para a Sprint 2 (atual).
-
-<figure><img src="imagens/respostas-pesquisa.jpg" alt="Resposta pesquisa" </figure>
-
 ## Planning Poker
 
 - A técnica do Planning Poker foi utilizada nessa Sprint após ter sido efetuada uma revisão do backlog e feita uma avaliação das dificuldades de cada tarefa, obtendo uma estimativa precisa do esforço que seria necessário.
@@ -45,6 +39,12 @@
 - Na apresentção da Sprint 1, foram feitas as anotações referentes a avaliação do grupo, de forma a ficarem claras as pontuações para todos os integrantes e serem aplicadas as devidas correções.
 
 <figure><img src="imagens/Pontuações Sprint1.jpg" alt="Pontuações Sprint1" </figure>
+    
+## Sprint Planning Meeting
+
+- Após o review da primeira Sprint, os colaboradores responderam a um questionário no Google Forms apontando as dificuldades e dando sugestões para a Sprint 2 (atual).
+
+<figure><img src="imagens/respostas-pesquisa.jpg" alt="Resposta pesquisa" </figure>    
     
 ## Mudanças
 
