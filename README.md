@@ -14,14 +14,16 @@
 <span id="objetivos">
 
 ## Objetivos Sprint (Backlog)
+        
+   
 
 
-<br>🔴 **Prioridade Alta:** Início da formatação do conteúdo
-<br>🔴 **Prioridade Alta:** Definição do modelo de avaliação
-<br>🟡 **Prioridade Média:** Atualização da Documentação no Repositório
-<br>🟡 **Prioridade Média:** Finalização do protótipo navegável
-<br>🟢 **Prioridade Baixa:** Inserção de Sugestão do Front-end (Menu)
-<br>🟢 **Prioridade Baixa:** Inserção do Modelo de Avaliação
+<br>🔴 **Prioridade Alta:** 
+<br>🔴 **Prioridade Alta:** 
+<br>🟡 **Prioridade Média:** 
+<br>🟡 **Prioridade Média:** 
+<br>🟢 **Prioridade Baixa:** 
+<br>🟢 **Prioridade Baixa:** 
 
 ## Planning Poker
 
