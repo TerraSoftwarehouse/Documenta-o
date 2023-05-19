@@ -1,12 +1,149 @@
-<h1 align="center">Documentação</h1>
+<span id="topo">
 
-🌒 <a href="https://github.com/TerraSoftwarehouse/Documentacao/blob/Sprint1/README.md"> <b>Sprint 1</Strong><a/> - 13/03/2023 a 05/04/2023
-<p>
-🌓 <a href="https://github.com/TerraSoftwarehouse/Documentacao/blob/Sprint2/README.md"> <b> Sprint 2</Strong><a/> - 13/04/2023 a 04/05/2023
-</p>
-🌕 <a href="https://github.com/TerraSoftwarehouse/Documentacao/blob/Sprint3/README.md"> <b> Sprint 3</Strong><a/> - 15/05/2023 a 06/06/2023
-<p>
-</p>
-<p>
-<img src="https://github.com/TerraSoftwarehouse/Documentacao/blob/Sprint1/imagens/Logo.png" width="1600" height="250"/>
-</p>
+<p align="center">
+        <a href="#objetivos"><b>Objetivos</b></a> &nbsp |&nbsp &nbsp
+        <a href="#sprintreview"><b>Sprint Review</b></a> &nbsp |&nbsp &nbsp
+        <a href="#equipe"><b>Equipe</b></a> &nbsp |&nbsp &nbsp
+        <a href="#documentacao"><b>Documentação</b></a> &nbsp |&nbsp &nbsp
+        <a href="#design"><b>Design</b></a> &nbsp |&nbsp &nbsp
+        <a href="#frontend"><b>Front-end</b></a> &nbsp |&nbsp &nbsp
+        <a href="#metricas"><b>Métricas do Time</b></a> &nbsp |&nbsp &nbsp
+        <a href="#links"><b>Links Úteis</b></a>
+    </p>
+    
+<span id="objetivos">
+
+## Objetivos Sprint (Backlog)
+
+
+<br>🔴 **Prioridade Alta:** Início da formatação do conteúdo
+<br>🔴 **Prioridade Alta:** Definição do modelo de avaliação
+<br>🟡 **Prioridade Média:** Atualização da Documentação no Repositório
+<br>🟡 **Prioridade Média:** Finalização do protótipo navegável
+<br>🟢 **Prioridade Baixa:** Inserção de Sugestão do Front-end (Menu)
+<br>🟢 **Prioridade Baixa:** Inserção do Modelo de Avaliação
+
+## Planning Poker
+
+- A técnica do Planning Poker foi utilizada nessa Sprint após ter sido efetuada uma revisão do backlog e feita uma avaliação das dificuldades de cada tarefa, obtendo uma estimativa precisa do esforço que seria necessário.
+<br>As tarefas com dificuldades superior ou igual a oito foram reorganizadas e subdivididas em novas tarefas menores, de forma a melhorar a eficiência e a entrega de forma mais ágil.
+<br>A técnica do Planning Poker também foi utilizada nessas subdivisões, fazendo com que, o tempo de execução das atividades fosse feito de forma mais precisa e refinada até a finalização da Sprint 2.
+
+<figure><img src="imagens/Sprint poker.jpg" width=1000" height="780" alt="Planning Poker" </figure>
+
+<span id="sprintreview">
+
+## Sprint Review
+
+- Na apresentção da Sprint 1, foram feitas as anotações referentes a avaliação do grupo, de forma a ficarem claras as pontuações para todos os integrantes e serem aplicadas as devidas correções.
+
+<figure><img src="imagens/Pontuações Sprint1.jpg" alt="Pontuações Sprint1" </figure>
+    
+## Sprint Planning Meeting
+
+- Após o review da primeira Sprint, os colaboradores responderam a um questionário no Google Forms apontando as dificuldades e dando sugestões para a Sprint 2 (atual).
+
+<figure><img src="imagens/respostas-pesquisa.jpg" alt="Resposta pesquisa" </figure>    
+    
+## Mudanças
+
+- Após a reunião da Sprint Review referente a Sprint I (13/04/2023) e definição das dificuldades encontradas na primeira sprint, foi decidida a mudança do Kanban do Trello para o Git Hub e dentro de cada tarefa foram inseridas as devidas prioridades.
+    
+<figure><img src="imagens/Kanban-GitHub.jpg" alt="Kanban-GitHub"</figure>    
+    
+<figure><img src="imagens/Kanban com prioridades.png" alt="Kanban-prioridades"</figure>
+
+<span id="equipe">
+
+## Equipe
+
+- A divisão da equipe foi feita separando inicialmente duas pessoas para a documentação, três pessoas para o front-end, uma pessoa cuidando do conteúdo do site e uma pessoa cuidando do design, além do Product Owner e do Master.
+<br>No decorrer da Sprint, uma pessoa foi retirada da documentação e alocada como apoio tanto ao Master, quanto no desenvolvimento do site da empresa Terra Softhouse. 
+<br>Já no final da Sprint, o designer após o término das respectivas atividades, também foi realocado para auxiliar na parte do conteúdo do site. 
+
+<span id="documentacao">
+
+## Documentação
+
+- Além da documentação padrão, a equipe de documentação trabalhou no site da empresa Terra, utilizanzo DoR - Definiton of ready (Critérios necessários para que uma história possa ser iniciada) e DoD - Definition of Done (Critérios para considerar uma história como concluída), visando vivenciar na prática a experiência de empresa como um todo.
+                       
+<figure>
+<img src="imagens/Página Terra SofwareHouse.png" alt="Detalhamento DoR and DoD-Kanban" 
+</figure>                       
+
+<br>Conheça aqui o site da <a href="https://terrasofthouse.com.br/"><b><span style="color: rgb(64, 23, 175);">Terra Softhouse</span></b></a>.
+
+→ [Voltar ao topo](#topo)
+
+<span id="design">
+
+## Design
+
+- O responsável pelo design iniciou a busca por referências de páginas de apresentação de equipes, plataformas de apresentação de conteúdos esteticamente agradáveis e referências de formatos adaptáveis de Layout para as apresentações.
+Após, foi feito o desenvolvimento do primeiro modelo para a página de apresentação da equipe e demais designs necessários a continuidade do processo.
+
+<span id="frontend">
+
+## Front-end
+
+- Foi feita uma pesquisa para deixar o site responsivo e o início dos testes usando o bootstrap.
+<b>A equipe de front encontrou dificuldade no uso do bootstrap e focou no estudo do mesmo para dar continuidade no processo.</b><br>Após, foram feitos os ajustes do CSS e tela principal e os ajustes dos módulos na página principal.
+
+<figure><img src="imagens/Modulos inicial.png" width="800" height="402" alt="Módulos-início"</figure>
+    
+- Foram adicionados os links na página de treinamento deixando-a finalizada e responsiva aguardando o recebimento de conteúdo.
+
+<figure><img src="imagens/Site responsivo.jpg" width="800" height="402" alt="Site-responsivo"</figure>
+    
+<figure><img src="imagens/Módulos - responsivo.jpg" width="800" height="402" alt="Módulos-responsivo"</figure>
+
+- O layout da página de avaliação foi finalizado com bootstrap, deixando o mesmo preparado para receber o conteúdo.
+
+<figure><img src="imagens/Layout página Quizz.jpg" width="800" height="402" alt="Página Avaliação"</figure>
+
+- Imagem da página de avaliação do usuário (aguardando conteúdo) e diploma que os usuários irão receber após finalização do Quizz.
+
+<figure><img src="imagens/Nota Avaliação Quizz.jpg" alt="Nota avaliação Quizz"</figure>
+
+<figure><img src="imagens/Modelo Diploma Quizz.jpg" alt="Modelo Diploma Quizz"</figure>
+
+→ [Voltar ao topo](#topo)
+
+<span id="metricas">
+
+## Métricas do Time
+
+<b>Controle Presença</b>
+
+- Foi feito um controle mais lúdico (utilizando as cores de cada um) de presença com o objetivo da equipe visualizar quanto tempo faltava para terminar o prazo e se reorganizar, caso necessário, a fim de cumprir as atividades dentro do prazo.
+
+<figure><img src="imagens/Controle presença.jpg" alt="Protótipo Navegável"</figure>
+
+<b>Histórias de usuários (User Stories)</b>
+
+- As Histórias de usuários (User Stories) foram feitas com o intuito de atender as expectativas dos envolvidos na avaliação do projeto.
+
+<figure><img src="imagens/User Storie.png" alt="Histórias de usuários (User Stories)"</figure>
+
+<b>Burndown</b>
+
+Gráfico de Burndown da data de 04/05/2023.
+
+<figure><img src="imagens/Burndown 04-05.png" alt="Burndown 04-05-2023"</figure>
+
+<span id="links">
+
+# Links Úteis
+
+😏 Site do projeto: <a href="https://treinamento.terrasofthouse.com.br/"><b>https://treinamento.terrasofthouse.com.br/</span></b></a>
+
+😀 Repositório do site: <a href="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/tree/ajustes-site/site"><b>https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/tree/ajustes-site/site</span></b></a>.
+
+🙃 Repositório da API (Sprint2): <a href="https://github.com/TerraSoftwarehouse/Sprint02"><b>https://github.com/TerraSoftwarehouse/Sprint02</b></a>
+
+🧐 Kanban (Sprint2): <a href="https://github.com/users/TerraSoftwarehouse/projects/1/views/1"><b>https://github.com/users/TerraSoftwarehouse/projects/1/views/1</b></a>
+
+😎 Site empresa Terra Softhouse: <a href="https://terrasofthouse.com.br/"><b>https://terrasofthouse.com.br/</span></b></a>
+
+
+→ [Voltar ao topo](#topo)
