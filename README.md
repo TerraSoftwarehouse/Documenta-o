@@ -4,7 +4,7 @@
 <p>
 🌓 <a href="https://github.com/TerraSoftwarehouse/Documentacao/blob/Sprint2/README.md"> <b> Sprint 2</Strong><a/> - 13/04/2023 a 04/05/2023
 </p>
-🌕 Sprint 3 - 15/05/2023 a 06/06/2023
+🌕 <a href="https://github.com/TerraSoftwarehouse/Documentacao/blob/Sprint3/README.md"> <b> Sprint 3</Strong><a/> - 15/05/2023 a 06/06/2023
 <p>
 </p>
 <p>
