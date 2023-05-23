@@ -31,21 +31,21 @@
 <br>As tarefas com dificuldades superior ou igual a oito foram reorganizadas e subdivididas em novas tarefas menores, de forma a melhorar a eficiência e a entrega de forma mais ágil.
 <br>A técnica do Planning Poker também foi utilizada nessas subdivisões, fazendo com que, o tempo de execução das atividades fosse feito de forma mais precisa e refinada até a finalização da Sprint 2.
 
-<figure><img src="imagens/retrospectiva_1.jpg" width=1857" height="353" alt="Planning Poker" </figure>
+**<br>Colocar figura Planning Poker aqui**
 
 <span id="sprintreview">
 
 ## Sprint Review
 
-- Na apresentção da Sprint 1, foram feitas as anotações referentes a avaliação do grupo, de forma a ficarem claras as pontuações para todos os integrantes e serem aplicadas as devidas correções.
+- Na apresentação da Sprint 2, foi feito um levantamento das pontuações gerais de todos os grupos, e mesmo a equipe Terra não tendo sido pontuada especificamente nessa apresentação, foi importante analisar as avaliações de todas as equipes como um todo, pois os comentários das demais, puderam ser utilizados para melhorias no processo da equipe Terra.
 
-<figure><img src="imagens/Pontuações Sprint1.jpg" alt="Pontuações Sprint1" </figure>
+<figure><img src="imagens/Respostas_Pesquisa_Sprint2.png" alt="Pontuações Sprint2" </figure>
     
 ## Sprint Planning Meeting
 
-- Após o review da primeira Sprint, os colaboradores responderam a um questionário no Google Forms apontando as dificuldades e dando sugestões para a Sprint 2 (atual).
-
-<figure><img src="imagens/respostas-pesquisa.jpg" alt="Resposta pesquisa" </figure>    
+- Após o review da segunda Sprint, os colaboradores responderam a um questionário no Google Forms apontando as dificuldades e dando sugestões para a Sprint 3 (atual).
+        
+<figure><img src="imagens/AvaliaçaoTimeSprint2.png" alt="Planning Poker" </figure>   
     
 ## Mudanças
 
