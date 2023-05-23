@@ -18,12 +18,12 @@
    
 
 
-<br>🔴 **Prioridade Alta: Inserção do conteúdo** 
-<br>🔴 **Prioridade Alta: Finalização do repositório** 
-<br>🔴 **Prioridade Alta: Finalização do HTML do site** 
-<br>🔴 **Prioridade Alta: Finalização do Design CSS** 
-<br>🔴 **Prioridade Alta: Revisão do produto final** 
-<br>🟡 **Prioridade Média: Finalização da avaliação em Javascript** 
+<br>🔴 **Prioridade Alta:** Inserção do conteúdo 
+<br>🔴 **Prioridade Alta:** Finalização do repositório
+<br>🔴 **Prioridade Alta:** Finalização do HTML do site 
+<br>🔴 **Prioridade Alta:** Finalização do Design CSS 
+<br>🔴 **Prioridade Alta:** Revisão do produto final 
+<br>🟡 **Prioridade Média:** Finalização da avaliação em Javascript
 
 ## Planning Poker
 
