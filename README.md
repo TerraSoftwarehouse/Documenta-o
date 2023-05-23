@@ -27,9 +27,7 @@
 
 ## Planning Poker
 
-- A técnica do Planning Poker foi utilizada nessa Sprint após ter sido efetuada uma revisão do backlog e feita uma avaliação das dificuldades de cada tarefa, obtendo uma estimativa precisa do esforço que seria necessário.
-<br>As tarefas com dificuldades superior ou igual a oito foram reorganizadas e subdivididas em novas tarefas menores, de forma a melhorar a eficiência e a entrega de forma mais ágil.
-<br>A técnica do Planning Poker também foi utilizada nessas subdivisões, fazendo com que, o tempo de execução das atividades fosse feito de forma mais precisa e refinada até a finalização da Sprint 2.
+- Após ter sido feita a revisão do Backlog e avaliação das dificuldades de cada tarefa, foi mantido o padrão do planning poker usado na Sprint 2, no qual, as dificuldades que das tarefas definidas como superior ou igual a oito foram reorganizadas e subdivididas em novas tarefas menores (O Planning Poker também foi utilizado nessas tarefas menores).
 
 **<br>Colocar figura Planning Poker aqui**
 
