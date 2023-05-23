@@ -31,7 +31,7 @@
 <br>As tarefas com dificuldades superior ou igual a oito foram reorganizadas e subdivididas em novas tarefas menores, de forma a melhorar a eficiência e a entrega de forma mais ágil.
 <br>A técnica do Planning Poker também foi utilizada nessas subdivisões, fazendo com que, o tempo de execução das atividades fosse feito de forma mais precisa e refinada até a finalização da Sprint 2.
 
-<figure><img src="imagens/Sprint poker.jpg" width=1000" height="780" alt="Planning Poker" </figure>
+<figure><img src="imagens/retrospectiva_1.jpg" width=1857" height="353" alt="Planning Poker" </figure>
 
 <span id="sprintreview">
 
