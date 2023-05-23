@@ -39,7 +39,7 @@
 
 - Na apresentação da Sprint 2, foi feito um levantamento das pontuações gerais de todos os grupos, e mesmo a equipe Terra não tendo sido pontuada especificamente nessa apresentação, foi importante analisar as avaliações de todas as equipes como um todo, pois os comentários das demais, puderam ser utilizados para melhorias no processo da equipe Terra.
 
-<figure><img src="imagens/Respostas_Pesquisa_Sprint2.png" alt="Pontuações Sprint2" </figure>
+<figure><img src="imagens/Pontuações apresentação Sprint2.png" alt="Pontuações Sprint2" </figure>
     
 ## Sprint Planning Meeting
 
