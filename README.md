@@ -62,10 +62,12 @@
 - Na parte da documentação para a terceira Sprint, a mesma foi feita utilizando as anotações das atividades que cada integrante foi alimentando no kanban, dentro do card ao qual estava trabalhando, facilitando, tanto o processo da documentação, quanto a visualização de cada integrante na respectiva atividade.
                        
 <figure>
-<img src="imagens/Página Terra SofwareHouse.png" alt="Detalhamento DoR and DoD-Kanban" 
-</figure>                       
-
-<br>Conheça aqui o site da <a href="https://terrasofthouse.com.br/"><b><span style="color: rgb(64, 23, 175);">Terra Softhouse</span></b></a>.
+<img src="imagens/detalhamento_kanban.png" alt="Detalhamento Kanban" 
+</figure>           
+        
+<figure>
+<img src="imagens/detalhamento_kanbanII.png" alt="Detalhamento Kanban II" 
+</figure>           
 
 → [Voltar ao topo](#topo)
 
