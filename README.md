@@ -75,14 +75,19 @@
 
 ## Design
 
-- O responsável pelo design iniciou a busca por referências de páginas de apresentação de equipes, plataformas de apresentação de conteúdos esteticamente agradáveis e referências de formatos adaptáveis de Layout para as apresentações.
-Após, foi feito o desenvolvimento do primeiro modelo para a página de apresentação da equipe e demais designs necessários a continuidade do processo.
+- O responsável pelo design iniciou a procura de imagens para ilustrar junto a inserção do conteúdo do site.
+        
+<figure>
+<img src="imagens/     " alt="Carrossel site" 
+</figure> 
 
 <span id="frontend">
 
 ## Front-end
 
-- Foi feita uma pesquisa para deixar o site responsivo e o início dos testes usando o bootstrap.
+- A equipe de front iniciou a inclusão assim como, a implementação do conteúdo no carrossel.
+        
+        
 <b>A equipe de front encontrou dificuldade no uso do bootstrap e focou no estudo do mesmo para dar continuidade no processo.</b><br>Após, foram feitos os ajustes do CSS e tela principal e os ajustes dos módulos na página principal.
 
 <figure><img src="imagens/Modulos inicial.png" width="800" height="402" alt="Módulos-início"</figure>
