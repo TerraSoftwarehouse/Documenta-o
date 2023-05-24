@@ -47,25 +47,19 @@
     
 ## Mudanças
 
-- Após a reunião da Sprint Review referente a Sprint I (13/04/2023) e definição das dificuldades encontradas na primeira sprint, foi decidida a mudança do Kanban do Trello para o Git Hub e dentro de cada tarefa foram inseridas as devidas prioridades.
+- Após a reunião da Sprint Review referente a segunda Sprint (04/05/2023), saída de dois integrantes do time e definição das dificuldades encontradas na segunda sprint, as funções foram remanejadas para a terceira sprint de forma a continuar a qualidade e cumprimento dos prazos propostos.
     
-<figure><img src="imagens/Kanban-GitHub.jpg" alt="Kanban-GitHub"</figure>    
-    
-<figure><img src="imagens/Kanban com prioridades.png" alt="Kanban-prioridades"</figure>
-
 <span id="equipe">
 
 ## Equipe
 
-- A divisão da equipe foi feita separando inicialmente duas pessoas para a documentação, três pessoas para o front-end, uma pessoa cuidando do conteúdo do site e uma pessoa cuidando do design, além do Product Owner e do Master.
-<br>No decorrer da Sprint, uma pessoa foi retirada da documentação e alocada como apoio tanto ao Master, quanto no desenvolvimento do site da empresa Terra Softhouse. 
-<br>Já no final da Sprint, o designer após o término das respectivas atividades, também foi realocado para auxiliar na parte do conteúdo do site. 
+- Inicialmente, a divisão da equipe foi feita refeita devido a redução de integrantes da equipe, ficando três integrantes cuidando do front-end, uma pessoa cuidando do design, uma pessoa cuidando da documentação e auxiliando no detalhamento do conteúdo, além do Product Owner e do Master.
 
 <span id="documentacao">
 
 ## Documentação
 
-- Além da documentação padrão, a equipe de documentação trabalhou no site da empresa Terra, utilizanzo DoR - Definiton of ready (Critérios necessários para que uma história possa ser iniciada) e DoD - Definition of Done (Critérios para considerar uma história como concluída), visando vivenciar na prática a experiência de empresa como um todo.
+- Na parte da documentação para a terceira Sprint, a mesma foi feita utilizando as anotações das atividades que cada integrante foi alimentando no kanban, dentro do card ao qual estava trabalhando, facilitando, tanto o processo da documentação, quanto a visualização de cada integrante na respectiva atividade.
                        
 <figure>
 <img src="imagens/Página Terra SofwareHouse.png" alt="Detalhamento DoR and DoD-Kanban" 
