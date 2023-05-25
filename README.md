@@ -94,7 +94,7 @@
 
 <figure><img src="imagens/Nota Avaliação Quizz.jpg" alt="Nota avaliação Quizz"</figure>
 
-<figure><img src="imagens/Modelo Diploma Quizz.jpg" alt="Modelo Diploma Quizz"</figure>
+<figure><img src="imagens/NovoCertificado.jpg" alt="Modelo Novo Certificado"</figure>
 
 → [Voltar ao topo](#topo)
 
