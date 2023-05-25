@@ -83,7 +83,7 @@
 
 ## Front-end
 
-- A equipe de front iniciou a inclusão assim como, a implementação do conteúdo no carrossel.
+- A equipe de front colocou o carrossel e fez os testes para verificação do funcionamento do mesmo nas paginas dos módulos. 
         
 <figure>
 <img src="imagens/Carrossel.png" alt="Carrossel site" 
@@ -95,7 +95,11 @@
 <figure><img src="imagens/Modelo Diploma Quizz.jpg" alt="Nota avaliação Quizz"</figure>
 
 <figure><img src="imagens/novoCertificado.jpg" alt="Modelo Novo Certificado"</figure>
+        
+- Foi desenvolvido um conteúdo adicional, aplicando os conceitos com exemplos práticos de forma a colocar mais de uma opção/ forma de aprendizado para os usuários que forem utilizar o site.
 
+<figure><img src="imagens/novoCertificado.jpg" alt="Aplicação do conteúdo com exemplos"</figure>
+        
 → [Voltar ao topo](#topo)
 
 <span id="metricas">
