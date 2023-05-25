@@ -104,9 +104,9 @@
 
 <b>Controle Presença</b>
 
-- Foi feito um controle mais lúdico (utilizando as cores de cada um) de presença com o objetivo da equipe visualizar quanto tempo faltava para terminar o prazo e se reorganizar, caso necessário, a fim de cumprir as atividades dentro do prazo.
+- O Controle de Presença foi mantido com o objetivo da equipe visualizar quanto tempo faltava para terminar o prazo e se reorganizar, caso necessário, a fim de cumprir as atividades dentro do prazo.
 
-<figure><img src="imagens/Controle presença.jpg" alt="Protótipo Navegável"</figure>
+<figure><img src="imagens/ControlePresença.jpg" alt="Protótipo Navegável"</figure>
 
 <b>Histórias de usuários (User Stories)</b>
 
