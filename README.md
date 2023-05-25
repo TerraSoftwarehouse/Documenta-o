@@ -119,13 +119,12 @@
 
 - As Histórias de usuários (User Stories) foram feitas com o intuito de atender as expectativas dos envolvidos na avaliação do projeto.
 
-<figure><img src="imagens/          " alt="Histórias de usuários (User Stories)"</figure>
+
 
 <b>Burndown</b>
 
 Gráfico de Burndown da data de 06/06/2023.
 
-<figure><img src="imagens/    " alt="Burndown 04-05-2023"</figure>
 
 <span id="links">
 
