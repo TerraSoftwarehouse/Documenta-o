@@ -106,7 +106,7 @@
 
 - O Controle de Presença foi mantido com o objetivo da equipe visualizar quanto tempo faltava para terminar o prazo e se reorganizar, caso necessário, a fim de cumprir as atividades dentro do prazo.
 
-<figure><img src="imagens/ControlePresença.jpg" alt="Protótipo Navegável"</figure>
+<figure><img src="imagens/ControlePresença.png" alt="Controle Presença"</figure>
 
 <b>Histórias de usuários (User Stories)</b>
 
