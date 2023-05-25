@@ -98,7 +98,7 @@
         
 - Foi desenvolvido um conteúdo adicional, aplicando os conceitos com exemplos práticos de forma a colocar mais de uma opção/ forma de aprendizado para os usuários que forem utilizar o site.
 
-<figure><img src="imagens/novoCertificado.jpg" alt="Aplicação do conteúdo com exemplos"</figure>
+<figure><img src="imagens/AplicaçãoConteudoExemplos.png" alt="Aplicação do conteúdo com exemplos"</figure>
         
 → [Voltar ao topo](#topo)
 
