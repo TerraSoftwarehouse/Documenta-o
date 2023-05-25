@@ -119,7 +119,7 @@
 
 - As Histórias de usuários (User Stories) foram feitas com o intuito de atender as expectativas dos envolvidos na avaliação do projeto.
 
-<figure><img src="imagens/User Storie.png" alt="Histórias de usuários (User Stories)"</figure>
+<figure><img src="imagens/          " alt="Histórias de usuários (User Stories)"</figure>
 
 <b>Burndown</b>
 
