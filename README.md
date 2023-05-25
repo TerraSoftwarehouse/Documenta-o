@@ -90,11 +90,11 @@
 </figure> 
        
 
-- O Diploma que os usuários vão receber foi refeito, visando deixá-lo com um ar mais empresarial.
+- O Certificado que os usuários vão receber foi refeito, visando deixá-lo com um ar mais empresarial.
 
-<figure><img src="imagens/Nota Avaliação Quizz.jpg" alt="Nota avaliação Quizz"</figure>
+<figure><img src="imagens/Modelo Diploma Quizz.jpg" alt="Nota avaliação Quizz"</figure>
 
-<figure><img src="imagens/NovoCertificado.jpg" alt="Modelo Novo Certificado"</figure>
+<figure><img src="imagens/novoCertificado.jpg" alt="Modelo Novo Certificado"</figure>
 
 → [Voltar ao topo](#topo)
 
