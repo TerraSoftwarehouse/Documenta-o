@@ -75,9 +75,12 @@
 
 ## Design
 
-- O responsável pelo design iniciou a procura de imagens para ilustrar junto a inserção do conteúdo do site.
-        
+- O responsável pelo design coletou e inseriu as imagens em arquivo no formato PNG. Após, foram inseridas e editadas as imagens principais e de apoio, referentes aos conteúdos "O que é Scrum" até "Os benefícios do Framework".
 
+<figure>
+<img src="     " alt="Design Folder Conteúdo" 
+</figure> 
+        
 
 <span id="frontend">
 
