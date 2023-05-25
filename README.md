@@ -77,9 +77,7 @@
 
 - O responsável pelo design iniciou a procura de imagens para ilustrar junto a inserção do conteúdo do site.
         
-<figure>
-<img src="imagens/     " alt="Carrossel site" 
-</figure> 
+
 
 <span id="frontend">
 
@@ -87,22 +85,12 @@
 
 - A equipe de front iniciou a inclusão assim como, a implementação do conteúdo no carrossel.
         
-        
-<b>A equipe de front encontrou dificuldade no uso do bootstrap e focou no estudo do mesmo para dar continuidade no processo.</b><br>Após, foram feitos os ajustes do CSS e tela principal e os ajustes dos módulos na página principal.
+<figure>
+<img src="imagens/Carrossel.png" alt="Carrossel site" 
+</figure> 
+       
 
-<figure><img src="imagens/Modulos inicial.png" width="800" height="402" alt="Módulos-início"</figure>
-    
-- Foram adicionados os links na página de treinamento deixando-a finalizada e responsiva aguardando o recebimento de conteúdo.
-
-<figure><img src="imagens/Site responsivo.jpg" width="800" height="402" alt="Site-responsivo"</figure>
-    
-<figure><img src="imagens/Módulos - responsivo.jpg" width="800" height="402" alt="Módulos-responsivo"</figure>
-
-- O layout da página de avaliação foi finalizado com bootstrap, deixando o mesmo preparado para receber o conteúdo.
-
-<figure><img src="imagens/Layout página Quizz.jpg" width="800" height="402" alt="Página Avaliação"</figure>
-
-- Imagem da página de avaliação do usuário (aguardando conteúdo) e diploma que os usuários irão receber após finalização do Quizz.
+- O Diploma que os usuários vão receber foi refeito, visando deixá-lo com um ar mais empresarial.
 
 <figure><img src="imagens/Nota Avaliação Quizz.jpg" alt="Nota avaliação Quizz"</figure>
 
@@ -128,9 +116,9 @@
 
 <b>Burndown</b>
 
-Gráfico de Burndown da data de 04/05/2023.
+Gráfico de Burndown da data de 06/06/2023.
 
-<figure><img src="imagens/Burndown 04-05.png" alt="Burndown 04-05-2023"</figure>
+<figure><img src="imagens/    " alt="Burndown 04-05-2023"</figure>
 
 <span id="links">
 
