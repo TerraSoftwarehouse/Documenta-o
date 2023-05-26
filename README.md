@@ -98,6 +98,12 @@
 <figure><img src="imagens/Modelo Diploma Quizz.jpg" alt="Nota avaliação Quizz"</figure>
 
 <figure><img src="imagens/novoCertificado.jpg" alt="Modelo Novo Certificado"</figure>
+
+- Após concluir a prova e tirar a nota suficiente de 6 pontos para conseguir o certificado, o usuário digitará o nome e CPF (Campo esse que já está pronto para receber os dados do CPF com o usuário apenas digitando o número), e após os dados aparecerem, e o mesmo clicar no botão "imprimir diploma com certificado", o certificado fica pronto para salvamento/impressão como abaixo:
+
+<figure><img src="imagens/TesteCertificado.png" alt="Certificado Novo Completo"</figure>
+        
+       
         
 - Foi desenvolvido um conteúdo adicional, aplicando os conceitos com exemplos práticos de forma a colocar mais de uma opção/ forma de aprendizado para os usuários que forem utilizar o site.
 
