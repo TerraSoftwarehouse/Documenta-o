@@ -90,8 +90,15 @@
         
 <figure>
 <img src="imagens/Carrossel.png" alt="Carrossel site" 
-</figure> 
-       
+</figure>         
+        
+- Nos módulos foi feita a inserção do conteúdo e na página inicial "index.html" foi feita a atualização da descrição e nome dos módulos.
+        
+<figure>
+<img src="imagens/Inserção conteudo.png" alt="Inserção Conteúdo página inicial" 
+</figure>         
+                
+                  
 - Foi implementada a mensagem negativa caso o usuário não atinja a pontuação mínima (de 6 pontos) necessária para receber o certificado.
 
  <figure><img src="imagens/MinimoPontos.png" alt="Mensagem pontuação mínima"</figure>
@@ -115,6 +122,7 @@
 → [Voltar ao topo](#topo)
 
 <span id="metricas">
+        
 
 ## Métricas do Time
 
