@@ -15,8 +15,6 @@
 
 ## Objetivos Sprint (Backlog)
         
-   
-
 
 <br>🔴 **Prioridade Alta:** Inserção do conteúdo 
 <br>🔴 **Prioridade Alta:** Finalização do repositório
@@ -118,6 +116,9 @@
 - Foi desenvolvido um conteúdo adicional, aplicando os conceitos com exemplos práticos de forma a colocar mais de uma opção/ forma de aprendizado para os usuários que forem utilizar o site.
 
 <figure><img src="imagens/AplicaçãoConteudoExemplos.png" alt="Aplicação do conteúdo com exemplos"</figure>
+        
+        
+<figure><img src="imagens/Dor&DodcomConteudo.png" alt="Conteúdo Dor & Dod"</figure>
         
 → [Voltar ao topo](#topo)
 
