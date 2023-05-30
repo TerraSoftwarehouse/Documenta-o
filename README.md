@@ -92,7 +92,10 @@
 <img src="imagens/Carrossel.png" alt="Carrossel site" 
 </figure> 
        
+- Foi implementada a mensagem negativa caso o usuário não atinja a pontuação mínima (de 6 pontos) necessária para receber o certificado.
 
+ <figure><img src="imagens/MinimoPontos.png" alt="Mensagem pontuação mínima"</figure>
+        
 - O Certificado que os usuários vão receber foi refeito, visando deixá-lo com um ar mais empresarial.
 
 <figure><img src="imagens/Modelo Diploma Quizz.jpg" alt="Nota avaliação Quizz"</figure>
