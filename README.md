@@ -114,10 +114,12 @@
        
         
 - Foi desenvolvido um conteúdo adicional, aplicando os conceitos com exemplos práticos de forma a colocar mais de uma opção/ forma de aprendizado para os usuários que forem utilizar o site.
-
+<p>
+-Conteúdo entregue ao P.O.    
+        
 <figure><img src="imagens/AplicaçãoConteudoExemplos.png" alt="Aplicação do conteúdo com exemplos"</figure>
         
-        
+- Conteúdo após aprovação do P.O. e inserção feita pela equipe.        
 <figure><img src="imagens/Dor&DodcomConteudo.png" alt="Conteúdo Dor & Dod"</figure>
         
 → [Voltar ao topo](#topo)
