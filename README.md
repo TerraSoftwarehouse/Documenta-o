@@ -51,7 +51,7 @@
 
 ## Equipe
 
-- Inicialmente, a divisão da equipe foi feita refeita devido a redução de integrantes da equipe, ficando três integrantes cuidando do front-end, uma pessoa cuidando do design, uma pessoa cuidando da documentação e auxiliando no detalhamento do conteúdo, além do Product Owner e do Master.
+- A divisão da equipe foi feita refeita devido a redução de integrantes da equipe, ficando três integrantes cuidando do front-end, uma pessoa cuidando do design, uma pessoa cuidando da documentação e auxiliando no detalhamento do conteúdo, além do Product Owner e do Master.
 
 <span id="documentacao">
 
