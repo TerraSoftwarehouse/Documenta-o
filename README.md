@@ -111,11 +111,10 @@
 
 <figure><img src="imagens/TesteCertificado.png" alt="Certificado Novo Completo"</figure>
         
-       
         
 - Foi desenvolvido um conteúdo adicional, aplicando os conceitos com exemplos práticos de forma a colocar mais de uma opção/ forma de aprendizado para os usuários que forem utilizar o site.
-<p>
--Conteúdo entregue ao P.O.    
+
+- Conteúdo entregue ao P.O.:    
         
 <figure><img src="imagens/AplicaçãoConteudoExemplos.png" alt="Aplicação do conteúdo com exemplos"</figure>
         
