@@ -84,7 +84,7 @@
 
 ## Front-end
 
-- A equipe de front colocou o carrossel e fez os testes para verificação do funcionamento do mesmo nas paginas dos módulos. 
+- A equipe de front colocou o carrossel e fez os testes para verificação do funcionamento do mesmo nas páginas dos módulos. 
         
 <figure>
 <img src="imagens/Carrossel.png" alt="Carrossel site" 
