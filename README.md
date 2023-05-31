@@ -112,7 +112,7 @@
 <figure><img src="imagens/TesteCertificado.png" alt="Certificado Novo Completo"</figure>
         
         
-- Foi desenvolvido um conteúdo adicional, aplicando os conceitos com exemplos práticos de forma a colocar mais de uma opção/ forma de aprendizado para os usuários que forem utilizar o site.
+- Foi desenvolvido um conteúdo adicional, aplicando os conceitos com exemplos práticos de forma a colocar mais de uma opção/ forma de aprendizado para os usuários que forem utilizar o site e os mesmos foram aplicados no módulo quatro.
 
 - Conteúdo entregue ao P.O.:    
         
