@@ -41,7 +41,7 @@
 
 - Após o review da segunda Sprint, os colaboradores responderam a um questionário no Google Forms apontando as dificuldades e dando sugestões para a Sprint 3 (atual).
         
-<figure><img src="imagens/AvaliaçaoTimeSprint2.png" alt="Planning Poker" </figure>   
+<figure><img src="imagens/AvaliaçaoTimeSprint2.jpg" alt="Planning Poker" </figure>   
     
 ## Mudanças
 
