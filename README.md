@@ -107,7 +107,7 @@
 
 <figure><img src="imagens/novoCertificado.jpg" alt="Modelo Novo Certificado"</figure>
 
-- Após concluir a prova e tirar a nota suficiente de 6 pontos para conseguir o certificado, o usuário digitará o nome e CPF (Campo esse que já está pronto para receber os dados do CPF com o usuário apenas digitando o número), e após os dados aparecerem, e o mesmo clicar no botão "imprimir diploma com certificado", o certificado fica pronto para salvamento/impressão como abaixo:
+- Após concluir a prova e tirar a nota mínima suficiente de seis pontos, até a nota máxima de dez pontos, o usuário acessará a tela para efetuar a impressão do certificando após digitar o nome e o CPF (Campo esse que já está pronto para receber os dados do CPF com o usuário apenas digitando os números), e após os dados aparecerem, e o mesmo clicar no botão "imprimir diploma com certificado", o certificado ficará disponível para salvamento/impressão como abaixo:
 
 <figure><img src="imagens/TesteCertificado.png" alt="Certificado Novo Completo"</figure>
         
