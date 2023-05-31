@@ -113,6 +113,10 @@
         
         
 - Foi desenvolvido um conteúdo adicional, aplicando os conceitos com exemplos práticos de forma a colocar mais de uma opção/ forma de aprendizado para os usuários que forem utilizar o site e os mesmos foram aplicados no módulo quatro.
+        
+ <figure>
+<img src="imagens/Módulo4.jpg" alt="Módulo 4" 
+</figure>
 
 - Conteúdo entregue ao P.O.:    
         
