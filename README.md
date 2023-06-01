@@ -64,7 +64,7 @@
 </figure>           
         
 <figure>
-<img src="imagens/detalhamento_kanbanII.png" alt="Detalhamento Kanban II" 
+<img src="imagens/detalhamento_kanbanII.jpg" alt="Detalhamento Kanban II" 
 </figure>           
 
 → [Voltar ao topo](#topo)
