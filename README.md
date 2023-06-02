@@ -178,9 +178,9 @@ Gráfico de Burndown da data de 06/06/2023.
 
 😀 Repositório do site: <a href="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/tree/ajustes-site/site"><b>https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/tree/ajustes-site/site</span></b></a>.
 
-🙃 Repositório da API (Sprint3): <a href="https://github.com/users/TerraSoftwarehouse/projects/2"><b>https://github.com/users/TerraSoftwarehouse/projects/2</b></a>
+🙃 Repositório da API (Sprint3): <a href="https://github.com/TerraSoftwarehouse/Sprint03"><b>https://github.com/TerraSoftwarehouse/Sprint03</b></a>
 
-🧐 Kanban (Sprint3): <a href="https://github.com/TerraSoftwarehouse/Sprint03"><b>https://github.com/TerraSoftwarehouse/Sprint03</b></a>
+🧐 Kanban (Sprint3): <a href="https://github.com/users/TerraSoftwarehouse/projects/2"><b>https://github.com/users/TerraSoftwarehouse/projects/2</b></a>
 
 😎 Site empresa Terra Softhouse: <a href="https://terrasofthouse.com.br/"><b>https://terrasofthouse.com.br/</span></b></a>
 
