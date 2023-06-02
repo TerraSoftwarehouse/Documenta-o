@@ -127,7 +127,11 @@
  
 - Foi criado o site da empresa, e a hospedagem foi feita na estrutura da Locaweb, a equipe terminou a inserção do conteúdo e após iniciaram-se os testes para verificar o funcionamento e possíveis ajustes.
         
-<figure><img src="imagens/SiteEmpresaTerra.png" alt="Site Empresa Terra"</figure>        
+<figure><img src="imagens/SiteEmpresaTerra.png" alt="Site Empresa Terra"</figure>     
+        
+- Após os testes, revisão e ajustes necessários o site ficou pronto e entrega e utilização do cliente.        
+        
+- Na data de 02/06/2023 que a equipe teve cinco aulas de API, foi feito um treinamento para a apresentação ao cliente e alinhamento dos detalhes junto a equipe.   
         
         
 → [Voltar ao topo](#topo)
