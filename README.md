@@ -2,6 +2,7 @@
 
 <p align="center">
         <a href="#objetivos"><b>Objetivos</b></a> &nbsp |&nbsp &nbsp
+        <a href="#planningPoker"><b>Planning Poker</b></a> &nbsp |&nbsp &nbsp
         <a href="#sprintreview"><b>Sprint Review</b></a> &nbsp |&nbsp &nbsp
         <a href="#equipe"><b>Equipe</b></a> &nbsp |&nbsp &nbsp
         <a href="#documentacao"><b>Documentação</b></a> &nbsp |&nbsp &nbsp
@@ -23,6 +24,8 @@
 <br>🔴 **Prioridade Alta:** Revisão do produto final 
 <br>🟡 **Prioridade Média:** Finalização da avaliação em Javascript
 
+<span id="planningPoker">
+        
 ## Planning Poker
 
 - Após ter sido feita a revisão do Backlog e avaliação das dificuldades de cada tarefa, foi mantido o padrão do planning poker usado na Sprint 2, no qual, as dificuldades das tarefas que foram definidas como, superior ou igual a oito, foram reorganizadas e subdivididas em novas tarefas menores, as quais também utilizaram a técnica do planning poker. 
@@ -42,6 +45,8 @@
 - Após o review da segunda Sprint, os colaboradores responderam a um questionário no Google Forms apontando as dificuldades e dando sugestões para a Sprint 3 (atual).
         
 <figure><img src="imagens/AvaliaçaoTimeSprint2.jpg" alt="Planning Poker" </figure>   
+        
+→ [Voltar ao topo](#topo)        
     
 ## Mudanças
 
@@ -114,7 +119,8 @@
 - Após concluir a prova e tirar a nota mínima suficiente de seis pontos, até a nota máxima de dez pontos, o usuário acessará a tela para efetuar a impressão do certificando após digitar o nome e o CPF (Campo esse que já está pronto para receber os dados do CPF com o usuário apenas digitando os números), e após os dados aparecerem, e o mesmo clicar no botão "imprimir diploma com resultado", o certificado ficará disponível para salvamento/impressão como abaixo:
 
 <figure><img src="imagens/TesteCertificado.png" alt="Certificado Novo Completo"</figure>
-        
+
+→ [Voltar ao topo](#topo)        
         
 - Foi desenvolvido um conteúdo adicional, aplicando os conceitos com exemplos práticos de forma a colocar mais de uma opção/ forma de aprendizado para os usuários que forem utilizar o site e os mesmos foram aplicados no módulo quatro.
         
