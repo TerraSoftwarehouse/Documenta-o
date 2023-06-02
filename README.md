@@ -100,6 +100,10 @@
 - Foi implementada a mensagem negativa caso o usuário não atinja a pontuação mínima (de 6 pontos) necessária para receber o certificado.
 
  <figure><img src="imagens/MinimoPontos.png" alt="Mensagem pontuação mínima"</figure>
+
+- Foi acrescentado um timer na avaliação para o usuário ter noção do tempo que levará para fazer o teste.
+         
+ <figure><img src="" alt=""</figure>        
         
 - O Certificado que os usuários vão receber foi refeito, visando deixá-lo com um ar mais empresarial.
 
