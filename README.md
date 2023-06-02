@@ -103,7 +103,7 @@
 
 - Foi acrescentado um timer na avaliação para o usuário ter noção do tempo que levará para fazer o teste.
          
- <figure><img src="" alt=""</figure>        
+ <figure><img src="imagens/TimerTeste.png" alt="Inclusão Timer Teste"</figure>        
         
 - O Certificado que os usuários vão receber foi refeito, visando deixá-lo com um ar mais empresarial.
 
