@@ -75,7 +75,7 @@
 
 ## Design
 
-- O responsável pelo design coletou e inseriu as imagens em arquivo no formato PNG. Após, foram inseridas e editadas as imagens principais e de apoio, referentes aos conteúdos "O que é Scrum" até "Os benefícios do Framework".
+- O responsável pelo design coletou e inseriu as imagens em arquivo no formato PNG. Após, foram inseridas e editadas as imagens principais e de apoio, referentes aos conteúdos "O que é Scrum" até "Os benefícios do Framework". Fez a inserção das imagens dos módulos.
 
 <figure>
 <img src="imagens/Design.png" alt="Design Folder Conteúdo" 
