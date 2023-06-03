@@ -1,7 +1,6 @@
 <span id="topo">
 
 <p align="center">
-        <a href="#objetivos"><b>Objetivos</b></a> &nbsp |&nbsp &nbsp
         <a href="#planningPoker"><b>Planning Poker</b></a> &nbsp |&nbsp &nbsp
         <a href="#sprintreview"><b>Sprint Review</b></a> &nbsp |&nbsp &nbsp
         <a href="#equipe"><b>Equipe</b></a> &nbsp |&nbsp &nbsp
@@ -12,8 +11,6 @@
         <a href="#links"><b>Links Úteis</b></a>
     </p>
     
-<span id="objetivos">
-
 ## Objetivos Sprint (Backlog)
         
 
