@@ -75,7 +75,7 @@
 
 ## Design
 
-- O responsável pelo design coletou e inseriu as imagens em arquivo no formato PNG. Após, foram inseridas e editadas as imagens principais e de apoio, referentes aos conteúdos "O que é Scrum" até "Os benefícios do Framework". Fez a inserção das imagens dos módulos.
+- O responsável pelo design coletou e inseriu as imagens em arquivo no formato PNG. Após, foram inseridas e editadas as imagens principais e de apoio, referentes aos conteúdos "O que é Scrum" até "Os benefícios do Framework". Após, foi feita a inserção das imagens dos módulos.
 
 <figure>
 <img src="imagens/Design.png" alt="Design Folder Conteúdo" 
@@ -113,7 +113,7 @@
 
 <figure><img src="imagens/novoCertificado.jpg" alt="Modelo Novo Certificado"</figure>
 
-- Após concluir a prova e tirar a nota mínima suficiente de seis pontos, até a nota máxima de dez pontos, o usuário acessará a tela para efetuar a impressão do certificando após digitar o nome e o CPF (Campo esse que já está pronto para receber os dados do CPF com o usuário apenas digitando os números), e após os dados aparecerem, e o mesmo clicar no botão "imprimir diploma com resultado", o certificado ficará disponível para salvamento/impressão como abaixo:
+- Após concluir a prova e tirar a nota mínima suficiente de seis pontos, até a nota máxima de dez pontos, o usuário acessará a tela para efetuar a impressão do certificado após digitar o nome e o CPF (Campo esse que já está pronto para receber os dados do CPF com o usuário apenas digitando os números), e após os dados aparecerem, e o mesmo clicar no botão "imprimir diploma com resultado", o certificado ficará disponível para salvamento/impressão como abaixo:
 
 <figure><img src="imagens/TesteCertificado.png" alt="Certificado Novo Completo"</figure>
 
@@ -125,20 +125,21 @@
 <img src="imagens/Módulo4.png" alt="Módulo 4" 
 </figure>
 
-- Conteúdo entregue ao P.O.:    
+- Conteúdo entregue ao Product Owner:    
         
 <figure><img src="imagens/AplicaçãoConteudoExemplos.png" alt="Aplicação do conteúdo com exemplos"</figure>
         
-- Conteúdo após aprovação do P.O. e inserção feita pela equipe.        
+- Conteúdo incluso no site pela equipe de front-end, após aprovação do Product Owner.
+        
 <figure><img src="imagens/Dor&DodcomConteudo.png" alt="Conteúdo Dor & Dod"</figure>
  
-- Foi criado o site da empresa, e a hospedagem foi feita na estrutura da Locaweb, a equipe terminou a inserção do conteúdo e após iniciaram-se os testes para verificar o funcionamento e possíveis ajustes.
+- Foi criado o site da empresa, e a hospedagem foi feita na estrutura da Locaweb, a equipe terminou a inserção do conteúdo e após, iniciaram-se os testes para verificar o funcionamento e possíveis ajustes.
+             
+- Durante os testes sobre o funcionamento do site, verificou-se erros gramaticais nos textos e falha no funcionamento do carrossel, todos esses erros foram corrigidos no decorrer da terceira Sprint. Após os testes, revisão e ajustes necessários o site ficou pronto para entrega e utilização do cliente.    
         
-<figure><img src="imagens/SiteEmpresaTerra.png" alt="Site Empresa Terra"</figure>     
+<figure><img src="imagens/SiteEmpresaTerra.png" alt="Site Empresa Terra"</figure>             
         
-- Após os testes, revisão e ajustes necessários o site ficou pronto e entrega e utilização do cliente.        
-        
-- Na data de 02/06/2023 que a equipe teve cinco aulas de API, foi feito um treinamento para a apresentação ao cliente e alinhamento dos detalhes junto a equipe.   
+- Na data de 02/06/2023 (a equipe teve cinco aulas de API), foi feito um treinamento para a apresentação ao cliente e alinhamento dos ajustes finais com toda a equipe Terra.   
         
         
 → [Voltar ao topo](#topo)
