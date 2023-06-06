@@ -119,9 +119,11 @@
 
 → [Voltar ao topo](#topo)        
         
-- Foi desenvolvido um conteúdo adicional, aplicando os conceitos com exemplos práticos de forma a colocar mais de uma opção/ forma de aprendizado para os usuários que forem utilizar o site e os mesmos foram aplicados no módulo quatro.
+- Após a entrega total do conteúdo na terceira Sprint, foi percebido que faltavam muitos pontos importantes para serem destrinchados antes da inserção final no site. Devido a isso, foi pedido um conteúdo adicional com explicações mais simples, e modificações no conteúdo mais técnico, gerando alterações até próximo a finalização da terceira Sprint.        
         
- <figure>
+- Esse conteúdo adicional foi desenvolvido, aplicando os conceitos com exemplos práticos de forma a colocar mais de uma opção/ forma de aprendizado para os usuários que forem utilizar o site e os mesmos foram aplicados no módulo quatro. 
+        
+<figure>
 <img src="imagens/Módulo4.png" alt="Módulo 4" 
 </figure>
 
@@ -139,9 +141,11 @@
         
 <figure><img src="imagens/SiteEmpresaTerra.png" alt="Site Empresa Terra"</figure>             
         
-- Na data de 02/06/2023 (a equipe teve cinco aulas de API), foi feito um treinamento para a apresentação ao cliente e alinhamento dos ajustes finais com toda a equipe Terra.   
+- O Master trabalhou na apresentação para o cliente e convidados e a equipe trabalhou no desenvolvimento dos QR Codes para serem utilizados na apresentação e facilitar o acesso dos convidados aos conteúdos do site da empresa Terra Softhouse e o site de Treinamento Scrum.
 
-<figure><img src="imagens/ApresentacaoFinal.png" alt="Montagem Apresentação Final"</figure>         
+<figure><img src="imagens/ApresentacaoFinal.png" alt="Montagem Apresentação Final"</figure>        
+        
+<figure><img src="" alt="QR Codes"</figure>         
         
 → [Voltar ao topo](#topo)
 
