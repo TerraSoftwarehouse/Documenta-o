@@ -127,7 +127,7 @@
 
 - Conteúdo entregue ao Product Owner:    
         
-<figure><img src="imagens/AplicaçãoConteudoExemplos.png" alt="Aplicação do conteúdo com exemplos"</figure>
+<figure><img src="imagens/AplicacaoConteudoExemplos.png" alt="Aplicação do conteúdo com exemplos"</figure>
         
 - Conteúdo incluso no site pela equipe de front-end, após aprovação do Product Owner.
         
@@ -140,7 +140,8 @@
 <figure><img src="imagens/SiteEmpresaTerra.png" alt="Site Empresa Terra"</figure>             
         
 - Na data de 02/06/2023 (a equipe teve cinco aulas de API), foi feito um treinamento para a apresentação ao cliente e alinhamento dos ajustes finais com toda a equipe Terra.   
-        
+
+<figure><img src="imagens/ApresentacaoFinal.png" alt="Montagem Apresentação Final"</figure>         
         
 → [Voltar ao topo](#topo)
 
