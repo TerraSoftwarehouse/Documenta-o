@@ -33,7 +33,7 @@
 
 ## Sprint Review
 
-- Na apresentação da Sprint 2, foi feito um levantamento das pontuações gerais de todos os grupos, e mesmo a equipe Terra não tendo sido pontuada especificamente nessa apresentação, foi importante analisar as avaliações de todas as equipes como um todo, pois os comentários das demais, puderam ser utilizados para melhorias no processo da equipe Terra.
+- Na apresentação da segunda Sprint, foi feito um levantamento das pontuações gerais de todos os grupos, e mesmo a equipe Terra não tendo sido pontuada especificamente nessa apresentação, foi importante analisar as avaliações de todas as equipes como um todo, pois os comentários das demais, puderam ser utilizados para melhorias no processo da equipe Terra.
 
 <figure><img src="imagens/Pontuações apresentação Sprint2.jpg" alt="Pontuações Sprint2" </figure>
     
@@ -47,7 +47,7 @@
     
 ## Mudanças
 
-- Após a reunião da Sprint Review referente a segunda Sprint (04/05/2023), saída de dois integrantes do time e definição das dificuldades encontradas na segunda sprint, as funções foram remanejadas para a terceira sprint de forma a continuar a qualidade e cumprimento dos prazos propostos.
+- Após a reunião da Sprint Review referente a segunda sprint (04/05/2023), saída de dois integrantes do time e definição das dificuldades encontradas na segunda sprint, as funções foram remanejadas para a terceira sprint de forma a continuar a qualidade e cumprimento dos prazos propostos.
     
 <span id="equipe">
 
@@ -59,7 +59,7 @@
 
 ## Documentação
 
-- Na parte da documentação para a terceira Sprint, a mesma foi feita utilizando as anotações das atividades que cada integrante foi alimentando no kanban, dentro do card ao qual estava trabalhando, facilitando, tanto o processo da documentação, quanto a visualização de cada integrante na respectiva atividade.
+- Na parte da documentação para a terceira sprint, a mesma foi feita utilizando as anotações das atividades que cada integrante foi alimentando no Kanban, dentro do card ao qual estava trabalhando, facilitando, tanto o processo da documentação, quanto a visualização de cada integrante na respectiva atividade.
                        
 <figure>
 <img src="imagens/detalhamento_kanban.png" alt="Detalhamento Kanban" 
@@ -119,7 +119,7 @@
 
 → [Voltar ao topo](#topo)        
         
-- Após a entrega total do conteúdo na terceira Sprint, foi percebido que faltavam muitos pontos importantes para serem destrinchados antes da inserção final no site. Devido a isso, foi pedido um conteúdo adicional com explicações mais simples, e modificações no conteúdo mais técnico, gerando alterações até próximo a finalização da terceira Sprint.        
+- Após a entrega total do conteúdo na terceira sprint, foi percebido que faltavam muitos pontos importantes para serem destrinchados antes da inserção final no site. Devido a isso, foi pedido um conteúdo adicional com explicações mais simples, e modificações no conteúdo mais técnico, gerando alterações até próximo a finalização da terceira sprint.        
         
 - Esse conteúdo adicional foi desenvolvido, aplicando os conceitos com exemplos práticos de forma a colocar mais de uma opção/ forma de aprendizado para os usuários que forem utilizar o site e os mesmos foram aplicados no módulo quatro. 
         
@@ -137,11 +137,11 @@
  
 - Foi criado o site da empresa, e a hospedagem foi feita na estrutura da Locaweb, a equipe terminou a inserção do conteúdo e após, iniciaram-se os testes para verificar o funcionamento e possíveis ajustes.
              
-- Durante os testes sobre o funcionamento do site, verificou-se erros gramaticais nos textos e falha no funcionamento do carrossel, todos esses erros foram corrigidos no decorrer da terceira Sprint. Após os testes, revisão e ajustes necessários o <a href="https://treinamento.terrasofthouse.com.br/"><b>site</span></b></a> ficou pronto para entrega e utilização do cliente.    
+- Durante os testes sobre o funcionamento do site, verificou-se erros gramaticais nos textos e falha no funcionamento do carrossel, todos esses erros foram corrigidos no decorrer da terceira sprint. Após os testes, revisão e ajustes necessários o <a href="https://treinamento.terrasofthouse.com.br/"><b>site</span></b></a> ficou pronto para entrega e utilização do cliente.    
         
 <figure><img src="imagens/SiteEmpresaTerra.png" alt="Site Empresa Terra"</figure>             
         
-- O Master trabalhou na apresentação para o cliente e convidados e a equipe trabalhou no desenvolvimento dos QR Codes para serem utilizados na apresentação e facilitar o acesso dos convidados aos conteúdos do site da empresa Terra Softhouse e o site de Treinamento Scrum.
+- O Master trabalhou na apresentação para o cliente e convidados, enquanto a equipe trabalhou no desenvolvimento dos QR Codes para serem utilizados na apresentação e facilitar, o acesso dos convidados aos conteúdos do site da empresa Terra Softhouse e o site de Treinamento Scrum.
 
 <figure><img src="imagens/ApresentacaoFinal.png" alt="Montagem Apresentação Final"</figure>        
         
@@ -156,13 +156,13 @@
 
 <b>Controle Presença</b>
 
-- O Controle de Presença foi mantido com o objetivo da equipe visualizar quanto tempo faltava para terminar o prazo e se reorganizar, caso necessário, a fim de cumprir as atividades dentro do prazo.
+- O Controle de Presença foi mantido com o objetivo de a equipe visualizar quanto tempo faltava para terminar o prazo e se reorganizar, caso necessário, a fim de cumprir as atividades dentro do prazo.
 
 <figure><img src="imagens/ControlePresença.png" alt="Controle Presença"</figure>
 
 <b>Histórias de usuários (User Stories)</b>
 
-- As Histórias de usuários (User Stories) feitas com o intuito de atender as expectativas dos envolvidos na avaliação do projeto.
+- Abaixo as Histórias de usuários (User Stories) feitas com o intuito de atender as expectativas dos envolvidos na avaliação do projeto.
         
 <p>        
 <figure><img src="imagens/User Storie.png" alt="User Storie"</figure>
