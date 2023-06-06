@@ -137,7 +137,7 @@
  
 - Foi criado o site da empresa, e a hospedagem foi feita na estrutura da Locaweb, a equipe terminou a inserção do conteúdo e após, iniciaram-se os testes para verificar o funcionamento e possíveis ajustes.
              
-- Durante os testes sobre o funcionamento do site, verificou-se erros gramaticais nos textos e falha no funcionamento do carrossel, todos esses erros foram corrigidos no decorrer da terceira Sprint. Após os testes, revisão e ajustes necessários o site ficou pronto para entrega e utilização do cliente.    
+- Durante os testes sobre o funcionamento do site, verificou-se erros gramaticais nos textos e falha no funcionamento do carrossel, todos esses erros foram corrigidos no decorrer da terceira Sprint. Após os testes, revisão e ajustes necessários o <a href="https://treinamento.terrasofthouse.com.br/"><b>site</span></b></a> ficou pronto para entrega e utilização do cliente.    
         
 <figure><img src="imagens/SiteEmpresaTerra.png" alt="Site Empresa Terra"</figure>             
         
