@@ -141,7 +141,7 @@
         
 - Pensando na acessibilidade dos usuários, nos módulos foram inclusos áudios e um avatar fazendo a linguagem de sinais, de forma a atender ao máximo de pessoas que precisem utilizar o site e fazer o treinamento.      
         
-- Abaixo, têm-se um exemplo de um módulo com o áudio e clicando no símbolo de orelha (símbolo escolhido por ser o símbolo universal de deficientes auditivos), abre-se o avatar fazendo as libras do conteúdo.        
+- Abaixo, têm-se um exemplo de um módulo com o áudio e clicando no símbolo da telebobina (símbolo escolhido por ser o símbolo universal dos deficientes auditivos), abre-se o avatar fazendo as libras do conteúdo.        
                 
         
 <figure><img src="imagens/Acessibilidade.png" alt="Acessibilidade"</figure>   
