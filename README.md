@@ -141,7 +141,9 @@
              
 - Durante os testes sobre o funcionamento do site, verificou-se erros gramaticais nos textos e falha no funcionamento do carrossel, todos esses erros foram corrigidos no decorrer da terceira sprint. Após os testes, revisão e ajustes necessários o <a href="https://treinamento.terrasofthouse.com.br/"><b>site</span></b></a> ficou pronto para entrega e utilização do cliente.    
         
-<figure><img src="imagens/SiteEmpresaTerra.png" alt="Site Empresa Terra"</figure>             
+<figure><img src="imagens/SiteEmpresaTerra.png" alt="Site Empresa Terra"</figure>    
+        
+- Pensando na acessibilidade dos usuários, foram inclusos áudios e um avatar fazendo a linguagem de sinais, de forma a atender a todas as pessoas, indepen        
         
 - O Master trabalhou na apresentação para o cliente e convidados, enquanto a equipe trabalhou no desenvolvimento dos QR Codes para serem utilizados na apresentação e facilitar, o acesso dos convidados aos conteúdos do site da empresa Terra Softhouse e o site de Treinamento Scrum.
 
