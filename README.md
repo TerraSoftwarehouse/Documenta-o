@@ -143,7 +143,13 @@
         
 <figure><img src="imagens/SiteEmpresaTerra.png" alt="Site Empresa Terra"</figure>    
         
-- Pensando na acessibilidade dos usuários, foram inclusos áudios e um avatar fazendo a linguagem de sinais, de forma a atender a todas as pessoas, indepen        
+- Pensando na acessibilidade dos usuários, nos módulos foram inclusos áudios e um avatar fazendo a linguagem de sinais, de forma a atender ao máximo de pessoas que precisem utilizar o site e fazer o treinamento.      
+        
+- Abaixo, têm-se um exemplo de um módulo com o áudio e clicando no símbolo de orelha (símbolo escolhido por ser o símbolo universal de deficientes auditivos), abre-se o avatar fazendo as libras do conteúdo.        
+        
+<figure><img src="imagens/Acessibilidade.png" alt="Acessibilidade"</figure>   
+        
+<figure><img src="imagens/AcessibilidadeAuditiva.png" alt="Avatar Acessibilidade"</figure>           
         
 - O Master trabalhou na apresentação para o cliente e convidados, enquanto a equipe trabalhou no desenvolvimento dos QR Codes para serem utilizados na apresentação e facilitar, o acesso dos convidados aos conteúdos do site da empresa Terra Softhouse e o site de Treinamento Scrum.
 
