@@ -157,7 +157,10 @@
         
 <figure><img src="imagens/QRcodes.png" width="600" height="402" alt="QR Codes"</figure>         
         
-      
+- Após a montagem da apresentação foi feito um controle adicional pelo kanban, onde os membros assistiram a uma pré apresentação feita pelo Master e puderam pontuar e detectar erros na mesma, a tempo de tudo ser corrigido antes da entrega do produto final ao cliente.
+        
+<figure><img src="imagens/ApresentacaoFinal.png" alt="Montagem Apresentação Final"</figure>   
+        
         
 → [Voltar ao topo](#topo)
 
