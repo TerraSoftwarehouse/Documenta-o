@@ -134,6 +134,8 @@
 - Conteúdo incluso no site pela equipe de front-end, após aprovação do Product Owner.
         
 <figure><img src="imagens/Dor&DodcomConteudo.png" alt="Conteúdo Dor & Dod"</figure>
+        
+- Pensando em um formato inclusivo, foram adicionados áudios, da explicação dos conteúdos         
  
 - Foi criado o site da empresa, e a hospedagem foi feita na estrutura da Locaweb, a equipe terminou a inserção do conteúdo e após, iniciaram-se os testes para verificar o funcionamento e possíveis ajustes.
              
