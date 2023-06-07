@@ -113,7 +113,7 @@
 
 <figure><img src="imagens/novoCertificado.jpg" alt="Modelo Novo Certificado"</figure>
 
-- Após concluir a prova e tirar a nota mínima suficiente de seis pontos, até a nota máxima de dez pontos, o usuário acessará a tela para efetuar a impressão do certificado após digitar o nome e o CPF (Campo esse que já está pronto para receber os dados do CPF com o usuário apenas digitando os números), e após os dados aparecerem, e o mesmo clicar no botão "imprimir diploma com resultado", o certificado ficará disponível para salvamento/impressão como abaixo:
+- Após concluir a prova e tirar a nota mínima suficiente de seis pontos, até a nota máxima de dez pontos, o usuário acessará a tela para efetuar a impressão do certificado após digitar o nome e o CPF (Campo esse que já está pronto para receber os dados do CPF com o usuário apenas digitando os números), e após os dados aparecerem, e o mesmo clicar no botão "imprimir diploma com resultado", o certificado ficará disponível para salvamento/impressão conforme abaixo:
 
 <figure><img src="imagens/TesteCertificado.png" alt="Certificado Novo Completo"</figure>
 
@@ -134,22 +134,23 @@
 - Conteúdo incluso no site pela equipe de front-end, após aprovação do Product Owner.
         
 <figure><img src="imagens/Dor&DodcomConteudo.png" alt="Conteúdo Dor & Dod"</figure>
-        
-- Pensando em um formato inclusivo, foram adicionados áudios, da explicação dos conteúdos         
+           
  
 - Foi criado o site da empresa, e a hospedagem foi feita na estrutura da Locaweb, a equipe terminou a inserção do conteúdo e após, iniciaram-se os testes para verificar o funcionamento e possíveis ajustes.
              
-- Durante os testes sobre o funcionamento do site, verificou-se erros gramaticais nos textos e falha no funcionamento do carrossel, todos esses erros foram corrigidos no decorrer da terceira sprint. Após os testes, revisão e ajustes necessários o <a href="https://treinamento.terrasofthouse.com.br/"><b>site</span></b></a> ficou pronto para entrega e utilização do cliente.    
-        
-<figure><img src="imagens/SiteEmpresaTerra.png" alt="Site Empresa Terra"</figure>    
         
 - Pensando na acessibilidade dos usuários, nos módulos foram inclusos áudios e um avatar fazendo a linguagem de sinais, de forma a atender ao máximo de pessoas que precisem utilizar o site e fazer o treinamento.      
         
 - Abaixo, têm-se um exemplo de um módulo com o áudio e clicando no símbolo de orelha (símbolo escolhido por ser o símbolo universal de deficientes auditivos), abre-se o avatar fazendo as libras do conteúdo.        
+                
         
 <figure><img src="imagens/Acessibilidade.png" alt="Acessibilidade"</figure>   
         
-<figure><img src="imagens/AcessibilidadeAuditiva.png" alt="Avatar Acessibilidade"</figure>           
+<figure><img src="imagens/AcessibilidadeAuditiva.png" alt="Avatar Acessibilidade"</figure>          
+        
+- Durante os testes sobre o funcionamento do site, verificou-se erros gramaticais nos textos e falha no funcionamento do carrossel, todos esses erros foram corrigidos no decorrer da terceira sprint. Após os testes, revisão e ajustes necessários o <a href="https://treinamento.terrasofthouse.com.br/"><b>site</span></b></a> ficou pronto para entrega e utilização do cliente.    
+        
+<figure><img src="imagens/SiteEmpresaTerra.png" alt="Site Empresa Terra"</figure>            
         
 - O Master trabalhou na apresentação para o cliente e convidados, enquanto a equipe trabalhou no desenvolvimento dos QR Codes para serem utilizados na apresentação e facilitar, o acesso dos convidados aos conteúdos do site da empresa Terra Softhouse e o site de Treinamento Scrum.
 
