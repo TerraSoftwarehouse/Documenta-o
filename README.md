@@ -155,7 +155,9 @@
 
 <figure><img src="imagens/ApresentacaoFinal.png" alt="Montagem Apresentação Final"</figure>        
         
-<figure><img src="imagens/QRcodes.png" alt="QR Codes"</figure>         
+<figure><img src="imagens/QRcodes.png" width="600" height="402" alt="QR Codes"</figure>         
+        
+      
         
 → [Voltar ao topo](#topo)
 
