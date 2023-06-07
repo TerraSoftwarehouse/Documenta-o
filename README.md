@@ -182,6 +182,7 @@
 
 Gráfico de Burndown da data de 06/06/2023.
 
+<figure><img src="imagens/Burndown.png" alt="User Storie"</figure>
 
 <span id="links">
 
